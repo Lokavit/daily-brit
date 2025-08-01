@@ -1,5 +1,22 @@
 # daily-brit
 
+## 安裝 python 環境
+
+```bash
+python3 --version # 檢查 Python 環境
+python3 -m pip --version # 確保安裝了 pip
+sudo apt install python3-pip # 如果報錯，則需要安裝它：
+sudo apt install python3-tk # 安裝 Tkinter（圖形界面庫）
+sudo apt install espeak # 安裝 TTS 命令行工具
+```
+
+## TODO
+
+- 單獨寫一個腳本。設定爲順序朗讀，依然是單詞+例句，循環三遍。將 json 文件中，每一個對象輸出爲一個 mp3 音頻。
+- 借助原有視頻，抽離音頻，對其音軌。
+
+====
+
 Liunx tool
 
 Python + Tkinter。
@@ -30,13 +47,3 @@ Python + Tkinter。
 使用 Python 的 threading 或 time 模組來實現定時功能。
 
 學習內容： 學習如何讓程式每隔一段時間（例如一小時）自動執行一次任務，即彈出視窗並顯示新單詞。
-
-## 安裝 python 環境
-
-```bash
-python3 --version # 檢查 Python 環境
-python3 -m pip --version # 確保安裝了 pip
-sudo apt install python3-pip # 如果報錯，則需要安裝它：
-sudo apt install python3-tk # 安裝 Tkinter（圖形界面庫）
-sudo apt install espeak # 安裝 TTS 命令行工具
-```
