@@ -1,0 +1,23 @@
+[
+    {
+        "word": "banana",
+        "accent": "/bəˈnɑː.nə/",
+        "tw": "香蕉",
+        "example": "I like banana.",
+        "tw_ex": "我喜歡香蕉"
+    },
+    {
+        "word": "schedule",
+        "accent": "/ˈʃed.juːl/",
+        "tw": "時間表",
+        "example": "What's your daily schedule?",
+        "tw_ex": "你每天的時間表是什麼？"
+    },
+    {
+        "word": "tomato",
+        "accent": "/təˈmɑː.təʊ/",
+        "tw": "番茄",
+        "example": "Do you prefer tomato soup?",
+        "tw_ex": "你喜歡番茄湯嗎？"
+    }
+]
