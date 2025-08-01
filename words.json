@@ -1,23 +1,3502 @@
 [
     {
+        "word": "you",
+        "accent": "/juː/",
+        "tw": "你；你們",
+        "example": "Are you ready?",
+        "tw_ex": "你準備好了嗎？"
+    },
+    {
+        "word": "I",
+        "accent": "/aɪ/",
+        "tw": "我",
+        "example": "I am a student.",
+        "tw_ex": "我是一名學生。"
+    },
+    {
+        "word": "to",
+        "accent": "/tuː/",
+        "tw": "到；向",
+        "example": "I'm going to the shop.",
+        "tw_ex": "我正要去商店。"
+    },
+    {
         "word": "the",
         "accent": "/ðə/",
-        "tw": "（用於特指的人或事物）這個",
-        "example": "The earth is round.",
-        "tw_ex": "地球是圓的。"
+        "tw": "（特指）這，那",
+        "example": "The cat is on the mat.",
+        "tw_ex": "貓在墊子上。"
+    },
+    {
+        "word": "and",
+        "accent": "/ænd/",
+        "tw": "和；與",
+        "example": "I like bread and butter.",
+        "tw_ex": "我喜歡麵包和黃油。"
+    },
+    {
+        "word": "that",
+        "accent": "/ðæt/",
+        "tw": "那個",
+        "example": "Is that your car?",
+        "tw_ex": "那是你的車嗎？"
+    },
+    {
+        "word": "of",
+        "accent": "/ɒv/",
+        "tw": "屬於",
+        "example": "A friend of mine.",
+        "tw_ex": "我的一個朋友。"
+    },
+    {
+        "word": "me",
+        "accent": "/miː/",
+        "tw": "我（賓格）",
+        "example": "Give me a hand.",
+        "tw_ex": "幫我一把。"
+    },
+    {
+        "word": "in",
+        "accent": "/ɪn/",
+        "tw": "在...裡",
+        "example": "The book is in the bag.",
+        "tw_ex": "書在包裡。"
+    },
+    {
+        "word": "this",
+        "accent": "/ðɪs/",
+        "tw": "這個",
+        "example": "This is a good idea.",
+        "tw_ex": "這是個好主意。"
+    },
+    {
+        "word": "for",
+        "accent": "/fɔː(r)/",
+        "tw": "為了",
+        "example": "This is for you.",
+        "tw_ex": "這是給你的。"
+    },
+    {
+        "word": "no",
+        "accent": "/nəʊ/",
+        "tw": "不；沒有",
+        "example": "There is no food left.",
+        "tw_ex": "沒有剩下食物了。"
+    },
+    {
+        "word": "have",
+        "accent": "/hæv/",
+        "tw": "有",
+        "example": "Do you have a pen?",
+        "tw_ex": "你有鋼筆嗎？"
+    },
+    {
+        "word": "my",
+        "accent": "/maɪ/",
+        "tw": "我的",
+        "example": "This is my house.",
+        "tw_ex": "這是我的房子。"
+    },
+    {
+        "word": "just",
+        "accent": "/dʒʌst/",
+        "tw": "只是；剛剛",
+        "example": "I just saw him.",
+        "tw_ex": "我剛才看到他了。"
+    },
+    {
+        "word": "not",
+        "accent": "/nɒt/",
+        "tw": "不、不是",
+        "example": "I am not happy.",
+        "tw_ex": "我不高興。"
+    },
+    {
+        "word": "do",
+        "accent": "/duː/",
+        "tw": "做；執行",
+        "example": "What do you do?",
+        "tw_ex": "你是做什麼工作的？"
     },
     {
         "word": "be",
         "accent": "/biː/",
         "tw": "是；存在",
-        "example": "I want to be a doctor.",
-        "tw_ex": "我想成為一名醫生。"
+        "example": "Be careful!",
+        "tw_ex": "小心！"
     },
     {
-        "word": "to",
-        "accent": "/tu/",
-        "tw": "到；向；給",
-        "example": "I'm going to the park.",
-        "tw_ex": "我正在去公園的路上。"
+        "word": "on",
+        "accent": "/ɒn/",
+        "tw": "在...上面",
+        "example": "The keys are on the table.",
+        "tw_ex": "鑰匙在桌子上。"
+    },
+    {
+        "word": "your",
+        "accent": "/jɔː(r)/",
+        "tw": "你的；你們的",
+        "example": "Is this your book?",
+        "tw_ex": "這是你的書嗎？"
+    },
+    {
+        "word": "was",
+        "accent": "/wəz/",
+        "tw": "是（過去式）",
+        "example": "It was a dark night.",
+        "tw_ex": "那是一個漆黑的夜晚。"
+    },
+    {
+        "word": "we",
+        "accent": "/wiː/",
+        "tw": "我們",
+        "example": "We are a team.",
+        "tw_ex": "我們是一個團隊。"
+    },
+    {
+        "word": "with",
+        "accent": "/wɪð/",
+        "tw": "和...一起",
+        "example": "Come with me.",
+        "tw_ex": "跟我來。"
+    },
+    {
+        "word": "but",
+        "accent": "/bʌt/",
+        "tw": "但是",
+        "example": "He is old, but he is strong.",
+        "tw_ex": "他年紀大了，但是很強壯。"
+    },
+    {
+        "word": "all",
+        "accent": "/ɔːl/",
+        "tw": "全部",
+        "example": "All of my friends are here.",
+        "tw_ex": "我所有的朋友都在這裡。"
+    },
+    {
+        "word": "well",
+        "accent": "/wel/",
+        "tw": "好",
+        "example": "She sings very well.",
+        "tw_ex": "她唱得非常好聽。"
+    },
+    {
+        "word": "he",
+        "accent": "/hiː/",
+        "tw": "他",
+        "example": "He is my best friend.",
+        "tw_ex": "他是我最好的朋友。"
+    },
+    {
+        "word": "about",
+        "accent": "/əˈbaʊt/",
+        "tw": "關於",
+        "example": "What are you talking about?",
+        "tw_ex": "你在說什麼？"
+    },
+    {
+        "word": "right",
+        "accent": "/raɪt/",
+        "tw": "對的；正確的",
+        "example": "You are right.",
+        "tw_ex": "你是對的。"
+    },
+    {
+        "word": "get",
+        "accent": "/ɡet/",
+        "tw": "得到",
+        "example": "I get a new book.",
+        "tw_ex": "我得到了一本新書。"
+    },
+    {
+        "word": "here",
+        "accent": "/hɪə(r)/",
+        "tw": "這裡",
+        "example": "Come here!",
+        "tw_ex": "到這裡來！"
+    },
+    {
+        "word": "out",
+        "accent": "/aʊt/",
+        "tw": "向外",
+        "example": "Get out of here!",
+        "tw_ex": "從這裡出去！"
+    },
+    {
+        "word": "if",
+        "accent": "/ɪf/",
+        "tw": "如果",
+        "example": "If it rains, we will stay home.",
+        "tw_ex": "如果下雨，我們就待在家裡。"
+    },
+    {
+        "word": "her",
+        "accent": "/hɜː(r)/",
+        "tw": "她的",
+        "example": "This is her cat.",
+        "tw_ex": "這是她的貓。"
+    },
+    {
+        "word": "she",
+        "accent": "/ʃiː/",
+        "tw": "她",
+        "example": "She is my sister.",
+        "tw_ex": "她是我姊姊。"
+    },
+    {
+        "word": "can",
+        "accent": "/kæn/",
+        "tw": "能；會",
+        "example": "Can you help me?",
+        "tw_ex": "你能幫我嗎？"
+    },
+    {
+        "word": "up",
+        "accent": "/ʌp/",
+        "tw": "向上",
+        "example": "The sun is coming up.",
+        "tw_ex": "太陽正在升起。"
+    },
+    {
+        "word": "want",
+        "accent": "/wɒnt/",
+        "tw": "想要",
+        "example": "I want a new toy.",
+        "tw_ex": "我想要一個新玩具。"
+    },
+    {
+        "word": "now",
+        "accent": "/naʊ/",
+        "tw": "現在",
+        "example": "We should go now.",
+        "tw_ex": "我們現在應該走了。"
+    },
+    {
+        "word": "go",
+        "accent": "/ɡəʊ/",
+        "tw": "去",
+        "example": "Let's go to the park.",
+        "tw_ex": "我們去公園吧。"
+    },
+    {
+        "word": "him",
+        "accent": "/hɪm/",
+        "tw": "他（賓格）",
+        "example": "I saw him yesterday.",
+        "tw_ex": "我昨天看到他了。"
+    },
+    {
+        "word": "there",
+        "accent": "/ðeə(r)/",
+        "tw": "那裡",
+        "example": "Put it over there.",
+        "tw_ex": "把它放在那邊。"
+    },
+    {
+        "word": "one",
+        "accent": "/wʌn/",
+        "tw": "一；一個",
+        "example": "I have one brother.",
+        "tw_ex": "我有一個哥哥。"
+    },
+    {
+        "word": "why",
+        "accent": "/waɪ/",
+        "tw": "為什麼",
+        "example": "Why are you so sad?",
+        "tw_ex": "你為什麼這麼傷心？"
+    },
+    {
+        "word": "see",
+        "accent": "/siː/",
+        "tw": "看見",
+        "example": "I can see the bird.",
+        "tw_ex": "我能看見那隻鳥。"
+    },
+    {
+        "word": "come",
+        "accent": "/kʌm/",
+        "tw": "來",
+        "example": "Come here!",
+        "tw_ex": "到這裡來！"
+    },
+    {
+        "word": "good",
+        "accent": "/ɡʊd/",
+        "tw": "好的",
+        "example": "Have a good day.",
+        "tw_ex": "祝你有美好的一天。"
+    },
+    {
+        "word": "they",
+        "accent": "/ðeɪ/",
+        "tw": "他們",
+        "example": "They are my friends.",
+        "tw_ex": "他們是我的朋友。"
+    },
+    {
+        "word": "really",
+        "accent": "/ˈriːəli/",
+        "tw": "真的",
+        "example": "I am really tired.",
+        "tw_ex": "我真的累了。"
+    },
+    {
+        "word": "when",
+        "accent": "/wen/",
+        "tw": "什麼時候；當…時",
+        "example": "When will you arrive?",
+        "tw_ex": "你什麼時候會到？"
+    },
+    {
+        "word": "back",
+        "accent": "/bæk/",
+        "tw": "後面",
+        "example": "I will be back in a minute.",
+        "tw_ex": "我一會兒就回來。"
+    },
+    {
+        "word": "from",
+        "accent": "/frɒm/",
+        "tw": "從...",
+        "example": "I am from Taiwan.",
+        "tw_ex": "我來自台灣。"
+    },
+    {
+        "word": "were",
+        "accent": "/wɜː(r)/",
+        "tw": "是（過去式）",
+        "example": "They were happy.",
+        "tw_ex": "他們過去很開心。"
+    },
+    {
+        "word": "yes",
+        "accent": "/jes/",
+        "tw": "是的",
+        "example": "Yes, I agree.",
+        "tw_ex": "是的，我同意。"
+    },
+    {
+        "word": "his",
+        "accent": "/hɪz/",
+        "tw": "他的",
+        "example": "This is his book.",
+        "tw_ex": "這是他的書。"
+    },
+    {
+        "word": "or",
+        "accent": "/ɔː(r)/",
+        "tw": "或者",
+        "example": "Coffee or tea?",
+        "tw_ex": "咖啡還是茶？"
+    },
+    {
+        "word": "who",
+        "accent": "/huː/",
+        "tw": "誰",
+        "example": "Who are you?",
+        "tw_ex": "你是誰？"
+    },
+    {
+        "word": "because",
+        "accent": "/bɪˈkɒz/",
+        "tw": "因為",
+        "example": "I'm happy because I passed the exam.",
+        "tw_ex": "我很高興因為我通過了考試。"
+    },
+    {
+        "word": "some",
+        "accent": "/sʌm/",
+        "tw": "一些",
+        "example": "I want some water.",
+        "tw_ex": "我想要一些水。"
+    },
+    {
+        "word": "then",
+        "accent": "/ðen/",
+        "tw": "然後",
+        "example": "I ate, and then I slept.",
+        "tw_ex": "我吃了東西，然後就睡了。"
+    },
+    {
+        "word": "say",
+        "accent": "/seɪ/",
+        "tw": "說",
+        "example": "What did you say?",
+        "tw_ex": "你說了什麼？"
+    },
+    {
+        "word": "an",
+        "accent": "/æn/",
+        "tw": "一個",
+        "example": "I saw an elephant.",
+        "tw_ex": "我看到了一頭大象。"
+    },
+    {
+        "word": "way",
+        "accent": "/weɪ/",
+        "tw": "方法；道路",
+        "example": "Is this the right way?",
+        "tw_ex": "這條路對嗎？"
+    },
+    {
+        "word": "us",
+        "accent": "/ʌs/",
+        "tw": "我們（賓格）",
+        "example": "Give us a chance.",
+        "tw_ex": "給我們一個機會。"
+    },
+    {
+        "word": "little",
+        "accent": "/ˈlɪtl/",
+        "tw": "小的",
+        "example": "I have a little dog.",
+        "tw_ex": "我有一隻小狗。"
+    },
+    {
+        "word": "never",
+        "accent": "/ˈnevə(r)/",
+        "tw": "從不",
+        "example": "I never go there.",
+        "tw_ex": "我從不去那裡。"
+    },
+    {
+        "word": "too",
+        "accent": "/tuː/",
+        "tw": "也；太",
+        "example": "It's too hot.",
+        "tw_ex": "太熱了。"
+    },
+    {
+        "word": "sure",
+        "accent": "/ʃɔː(r)/",
+        "tw": "確定的",
+        "example": "Are you sure?",
+        "tw_ex": "你確定嗎？"
+    },
+    {
+        "word": "more",
+        "accent": "/mɔː(r)/",
+        "tw": "更多",
+        "example": "I want more tea.",
+        "tw_ex": "我想要更多茶。"
+    },
+    {
+        "word": "over",
+        "accent": "/ˈəʊvə(r)/",
+        "tw": "在...上方",
+        "example": "The plane flew over the city.",
+        "tw_ex": "飛機飛過城市上空。"
+    },
+    {
+        "word": "our",
+        "accent": "/ˈaʊə(r)/",
+        "tw": "我們的",
+        "example": "This is our house.",
+        "tw_ex": "這是我們的房子。"
+    },
+    {
+        "word": "sorry",
+        "accent": "/ˈsɒri/",
+        "tw": "抱歉",
+        "example": "I'm sorry for being late.",
+        "tw_ex": "我很抱歉遲到了。"
+    },
+    {
+        "word": "where",
+        "accent": "/weə(r)/",
+        "tw": "在哪裡",
+        "example": "Where are you?",
+        "tw_ex": "你在哪裡？"
+    },
+    {
+        "word": "let",
+        "accent": "/let/",
+        "tw": "讓",
+        "example": "Let me go.",
+        "tw_ex": "讓我走。"
+    },
+    {
+        "word": "maybe",
+        "accent": "/ˈmeɪbi/",
+        "tw": "也許",
+        "example": "Maybe it will rain tomorrow.",
+        "tw_ex": "也許明天會下雨。"
+    },
+    {
+        "word": "down",
+        "accent": "/daʊn/",
+        "tw": "向下",
+        "example": "The lights go down before the movie starts.",
+        "tw_ex": "電影開始前燈光會逐漸變暗。"
+    },
+    {
+        "word": "man",
+        "accent": "/mæn/",
+        "tw": "男人",
+        "example": "He is a great man.",
+        "tw_ex": "他是一位偉人。"
+    },
+    {
+        "word": "very",
+        "accent": "/ˈveri/",
+        "tw": "很，非常",
+        "example": "She sings very well.",
+        "tw_ex": "她唱得非常好。"
+    },
+    {
+        "word": "by",
+        "accent": "/baɪ/",
+        "tw": "在...之前；由...",
+        "example": "Applications should be submitted by August 31.",
+        "tw_ex": "申請書必須在8月31日之前提交。"
+    },
+    {
+        "word": "anything",
+        "accent": "/ˈeniθɪŋ/",
+        "tw": "任何事物",
+        "example": "I will eat anything except pickles.",
+        "tw_ex": "除了泡菜以外我什麼都吃。"
+    },
+    {
+        "word": "much",
+        "accent": "/mʌʧ/",
+        "tw": "很多",
+        "example": "I don't have much time.",
+        "tw_ex": "我沒有很多時間。"
+    },
+    {
+        "word": "any",
+        "accent": "/ˈeni/",
+        "tw": "任何的",
+        "example": "If any situation happens, you can call me.",
+        "tw_ex": "如果發生任何狀況，你可以打電話給我。"
+    },
+    {
+        "word": "life",
+        "accent": "/laɪf/",
+        "tw": "生活；生命",
+        "example": "Live beautifully, dream passionately, love completely.",
+        "tw_ex": "活要活得美好，夢要夢得熱烈，愛要愛得完整。"
+    },
+    {
+        "word": "even",
+        "accent": "/ˈiːvn/",
+        "tw": "甚至；連...都",
+        "example": "She can sing, dance and even direct.",
+        "tw_ex": "唱歌、跳舞，甚至導演，她都會。"
+    },
+    {
+        "word": "off",
+        "accent": "/ɒf/",
+        "tw": "關閉；離開",
+        "example": "Remember to turn off the light when you leave.",
+        "tw_ex": "離開前記得要關燈。"
+    },
+    {
+        "word": "please",
+        "accent": "/pliːz/",
+        "tw": "請",
+        "example": "Please come in.",
+        "tw_ex": "請進。"
+    },
+    {
+        "word": "thank",
+        "accent": "/θæŋk/",
+        "tw": "感謝",
+        "example": "Thanks for all your help.",
+        "tw_ex": "謝謝你提供的一切協助。"
+    },
+    {
+        "word": "only",
+        "accent": "/ˈəʊnli/",
+        "tw": "獨一無二的",
+        "example": "The TV show was about the one and only Lady Gaga, the world-famous singer.",
+        "tw_ex": "這個電視節目是關於獨一無二的女神卡卡，這位世界知名的歌手。"
+    },
+    {
+        "word": "help",
+        "accent": "/help/",
+        "tw": "協助",
+        "example": "Could you help me up with this suitcase?",
+        "tw_ex": "你幫我把這箱子搬到樓上好嗎？"
+    },
+    {
+        "word": "two",
+        "accent": "/tuː/",
+        "tw": "二",
+        "example": "The \"two musts\" refer to a work style of being modest, prudent, and not arrogant or impatient, and a work style of hard struggle.",
+        "tw_ex": "「兩個務必」指「務必使同志們繼續地保持謙虛、謹慎、不驕、不躁的作風，務必使同志們繼續地保持艱苦奮鬥的作風」。"
+    },
+    {
+        "word": "talk",
+        "accent": "/tɔːk/",
+        "tw": "交談",
+        "example": "Neil was talking on the phone when his father came back.",
+        "tw_ex": "當Neil 的父親回來時，Neil 正在講電話。"
+    },
+    {
+        "word": "people",
+        "accent": "/ˈpiːpl/",
+        "tw": "人",
+        "example": "Some people can't tell how good he is, but no one can replace him.",
+        "tw_ex": "有些人說不清哪裡好，但就是誰也替代不了。"
+    },
+    {
+        "word": "God",
+        "accent": "/ɡɒd/",
+        "tw": "上帝",
+        "example": "God made relatives, and thank God we can choose our friends.",
+        "tw_ex": "上天決定了誰是你的親戚，好在我們可以自己選擇朋友。"
+    },
+    {
+        "word": "still",
+        "accent": "/stɪl/",
+        "tw": "依然；還是",
+        "example": "Even though Georgia gave me a flower, she is still a mean person.",
+        "tw_ex": "儘管Georgia 給了我一朵花，她仍然是個刻薄的人。"
+    },
+    {
+        "word": "wait",
+        "accent": "/weɪt/",
+        "tw": "等待",
+        "example": "I can't wait to go on vacation to Vietnam!",
+        "tw_ex": "我迫不及待要去越南度假了！"
+    },
+    {
+        "word": "into",
+        "accent": "/ˈɪntuː/",
+        "tw": "到...裡面；對...熱衷",
+        "example": "Tom is into video games, so he spends all his time playing them.",
+        "tw_ex": "湯姆對電玩遊戲相當熱衷，所以他總是花很多時間在玩。"
+    },
+    {
+        "word": "find",
+        "accent": "/faɪnd/",
+        "tw": "發現；找到",
+        "example": "We need to find a way to solve this problem.",
+        "tw_ex": "我們需要找到解決這個問題的辦法。"
+    },
+    {
+        "word": "again",
+        "accent": "/əˈɡeɪn/",
+        "tw": "再；又",
+        "example": "Kelly was really angry because you made the same mistake over and over (again).",
+        "tw_ex": "Kelly 非常生氣，因為你一再地犯下相同的錯。"
+    },
+    {
+        "word": "thing",
+        "accent": "/θɪŋ/",
+        "tw": "東西；事物",
+        "example": "A laugh can be a very powerful thing.",
+        "tw_ex": "笑容是個有力量的東西。"
+    },
+    {
+        "word": "call",
+        "accent": "/kɔːl/",
+        "tw": "打電話；稱呼",
+        "example": "You don't call me names.",
+        "tw_ex": "你不要再罵我了。"
+    },
+    {
+        "word": "told",
+        "accent": "/təʊld/",
+        "tw": "告訴 (tell的過去式)",
+        "example": "I told the interesting story to Bonita, who told it to her husband.",
+        "tw_ex": "我把這個有趣的故事告訴了伯妮培，伯妮培又告訴了她丈夫。"
+    },
+    {
+        "word": "great",
+        "accent": "/ɡreɪt/",
+        "tw": "很棒的；偉大的",
+        "example": "It's great to see you again.",
+        "tw_ex": "很高興再次見到你。"
+    },
+    {
+        "word": "before",
+        "accent": "/bɪˈfɔː(r)/",
+        "tw": "在...之前",
+        "example": "Please have this done before Friday.",
+        "tw_ex": "請在星期五之前完成此事。"
+    },
+    {
+        "word": "better",
+        "accent": "/ˈbetə(r)/",
+        "tw": "更好的；最好",
+        "example": "When it gets dark, you'd better go home.",
+        "tw_ex": "當天色變暗的時候，你最好回家。"
+    },
+    {
+        "word": "ever",
+        "accent": "/ˈevə(r)/",
+        "tw": "曾經",
+        "example": "Have you ever been to Scotland?",
+        "tw_ex": "你去過蘇格蘭嗎？"
+    },
+    {
+        "word": "night",
+        "accent": "/naɪt/",
+        "tw": "夜晚",
+        "example": "By quitting late-night supper, I lost five pounds already.",
+        "tw_ex": "不吃宵夜後，我輕了五磅。"
+    },
+    {
+        "word": "than",
+        "accent": "/ðən/",
+        "tw": "比",
+        "example": "It is much more difficult to change a person's thinking than to improve the economy.",
+        "tw_ex": "改變一個人的思想比改善經濟困難得多。"
+    },
+    {
+        "word": "away",
+        "accent": "/əˈweɪ/",
+        "tw": "離開",
+        "example": "You should stay away from fat food.",
+        "tw_ex": "你該遠離高脂肪的食物。"
+    },
+    {
+        "word": "first",
+        "accent": "/fɜːst/",
+        "tw": "第一；首先",
+        "example": "Our first objective was to solve the problem of food and clothing.",
+        "tw_ex": "我們的第一個目標是解決溫飽問題。"
+    },
+    {
+        "word": "believe",
+        "accent": "/bɪˈliːv/",
+        "tw": "相信",
+        "example": "Believe in yourself. You are the best.",
+        "tw_ex": "相信你自己。 你是最棒的。"
+    },
+    {
+        "word": "fine",
+        "accent": "/faɪn/",
+        "tw": "罰款；好的",
+        "example": "I was fined for littering.",
+        "tw_ex": "我因隨地亂扔垃圾而被罰款。"
+    },
+    {
+        "word": "home",
+        "accent": "/həʊm/",
+        "tw": "家",
+        "example": "After leaving home for university, she realized that there is no place like home.",
+        "tw_ex": "自從離家上大學後，她體會到還是自己的家最好。"
+    },
+    {
+        "word": "after",
+        "accent": "/ˈɑːftə(r)/",
+        "tw": "在...之後",
+        "example": "The prince and the princess lived happily ever after.",
+        "tw_ex": "從此以後，王子和公主過著快樂的日子。"
+    },
+    {
+        "word": "last",
+        "accent": "/lɑːst/",
+        "tw": "上一個；最後的",
+        "example": "He was thin and short last year.",
+        "tw_ex": "去年他又瘦又矮。"
+    },
+    {
+        "word": "these",
+        "accent": "/ðiːz/",
+        "tw": "這些",
+        "example": "These properties are pure.",
+        "tw_ex": "這些性質是純淨的。"
+    },
+    {
+        "word": "put",
+        "accent": "/pʊt/",
+        "tw": "放置",
+        "example": "Put your toys on the shelf after you finish playing with them.",
+        "tw_ex": "玩完玩具後，把它們放到架子上。"
+    },
+    {
+        "word": "around",
+        "chinese_translation": "在四周；在附近；大約",
+        "example_sentence": "There are several coffee shops around the lake.",
+        "translation_of_example": "湖的四周有好幾家咖啡店。"
+    },
+    {
+        "word": "stop",
+        "chinese_translation": "停止",
+        "example_sentence": "Stop laughing!",
+        "translation_of_example": "別笑了！"
+    },
+    {
+        "word": "long",
+        "chinese_translation": "長的；渴望",
+        "example_sentence": "My longing for her has not faded away after all these years.",
+        "translation_of_example": "這麼多年後，我對她的懷念仍然未消退。"
+    },
+    {
+        "word": "always",
+        "chinese_translation": "總是",
+        "example_sentence": "She always spells my name wrong.",
+        "translation_of_example": "她總是把我的名字拼錯。"
+    },
+    {
+        "word": "listen",
+        "chinese_translation": "聆聽",
+        "example_sentence": "Listen! Someone is playing the violin.",
+        "translation_of_example": "你聽！有人在拉小提琴。"
+    },
+    {
+        "word": "those",
+        "chinese_translation": "那些",
+        "example_sentence": "Those are my friends.",
+        "translation_of_example": "那些是我的朋友。"
+    },
+    {
+        "word": "big",
+        "chinese_translation": "大的",
+        "example_sentence": "I forgot my MRT card, but it's not a big deal. I'll just use cash.",
+        "translation_of_example": "我忘記帶我的捷運卡，但這沒什麼大不了的，我會用現金。"
+    },
+    {
+        "word": "lot",
+        "chinese_translation": "大量",
+        "example_sentence": "Zona drank a lot of water after she exercised.",
+        "translation_of_example": "Zona 運動後喝了大量的水。"
+    },
+    {
+        "word": "kind",
+        "chinese_translation": "種類；親切",
+        "example_sentence": "How many kinds of animals are there in the zoo?",
+        "translation_of_example": "動物園裡有多少種動物？"
+    },
+    {
+        "word": "wrong",
+        "chinese_translation": "錯誤的",
+        "example_sentence": "I got the time wrong.",
+        "translation_of_example": "我弄錯時間了。"
+    },
+    {
+        "word": "through",
+        "chinese_translation": "透過；穿過",
+        "example_sentence": "I quickly ran through my homework before handing it in to the teacher.",
+        "translation_of_example": "我迅速地把作業檢查一遍後交給老師。"
+    },
+    {
+        "word": "new",
+        "chinese_translation": "新的",
+        "example_sentence": "中国特色社会主义进入了新时代。",
+        "translation_of_example": "Socialism with Chinese characteristics has entered a new era."
+    },
+    {
+        "word": "guess",
+        "chinese_translation": "猜",
+        "example_sentence": "Guess what!",
+        "translation_of_example": "猜猜看！"
+    },
+    {
+        "word": "care",
+        "chinese_translation": "在乎；關心",
+        "example_sentence": "I don't care about the expense.",
+        "translation_of_example": "價錢多少我不在乎。"
+    },
+    {
+        "word": "bad",
+        "chinese_translation": "壞的",
+        "example_sentence": "Bad news travels fast.",
+        "translation_of_example": "壞事傳千里。"
+    },
+    {
+        "word": "mom",
+        "chinese_translation": "媽媽",
+        "example_sentence": "Mom isn't home. Where is she?",
+        "translation_of_example": "媽媽不在家。她在哪裡？"
+    },
+    {
+        "word": "remember",
+        "chinese_translation": "記得",
+        "example_sentence": "I don't remember.",
+        "translation_of_example": "我不記得了。"
+    },
+    {
+        "word": "together",
+        "chinese_translation": "一起",
+        "example_sentence": "They decided to travel together.",
+        "translation_of_example": "他們決定一起旅行。"
+    },
+    {
+        "word": "dad",
+        "chinese_translation": "爸爸",
+        "example_sentence": "After school, I run some errands for my dad.",
+        "translation_of_example": "下課之後我去幫我爸辦點事。"
+    },
+    {
+        "word": "leave",
+        "chinese_translation": "離開",
+        "example_sentence": "His uncle left Taiwan for England three weeks ago.",
+        "translation_of_example": "他的伯父三個星期前就離開臺灣前往英國了。"
+    },
+    {
+        "word": "mother",
+        "chinese_translation": "母親",
+        "example_sentence": "Failure is the mother of success.",
+        "translation_of_example": "失敗乃成功之母。"
+    },
+    {
+        "word": "place",
+        "chinese_translation": "地方",
+        "example_sentence": "It's really difficult to find a place to park near the night market.",
+        "translation_of_example": "要在夜市附近找到地方停車真的很難。"
+    },
+    {
+        "word": "understand",
+        "chinese_translation": "了解；明白",
+        "example_sentence": "Do you understand what I'm saying?",
+        "translation_of_example": "你明白我在說什麼嗎？"
+    },
+    {
+        "word": "actually",
+        "chinese_translation": "事實上；其實",
+        "example_sentence": "Tell me what actually happened yesterday.",
+        "translation_of_example": "告訴我昨天到底發生了什麼事。"
+    },
+    {
+        "word": "hear",
+        "chinese_translation": "聽到",
+        "example_sentence": "I didn't hear what you said.",
+        "translation_of_example": "我沒聽到你說什麼。"
+    },
+    {
+        "word": "baby",
+        "chinese_translation": "嬰兒",
+        "example_sentence": "Jane has a three-month-old baby.",
+        "translation_of_example": "Jane 有個三個月大的嬰兒。"
+    },
+    {
+        "word": "nice",
+        "chinese_translation": "好的；美好的",
+        "example_sentence": "Nice to meet you.",
+        "translation_of_example": "很高興認識你。"
+    },
+    {
+        "word": "father",
+        "chinese_translation": "父親",
+        "example_sentence": "Like father, like son.",
+        "translation_of_example": "有其父必有其子。"
+    },
+    {
+        "word": "else",
+        "chinese_translation": "其他的",
+        "example_sentence": "Can I get you anything else?",
+        "translation_of_example": "還需要什麼嗎？"
+    },
+    {
+        "word": "stay",
+        "chinese_translation": "停留",
+        "example_sentence": "We decided to stay at the hotel overnight.",
+        "translation_of_example": "我們決定在酒店過夜。"
+    },
+    {
+        "word": "their",
+        "chinese_translation": "他們的",
+        "example_sentence": "They are proud of their new house.",
+        "translation_of_example": "他們為自己的新房子感到驕傲。"
+    },
+    {
+        "word": "course",
+        "chinese_translation": "課程；當然",
+        "example_sentence": "Of course!",
+        "translation_of_example": "當然！"
+    },
+    {
+        "word": "might",
+        "chinese_translation": "可能",
+        "example_sentence": "I might go to the party later on.",
+        "translation_of_example": "我一會兒可能會去參加聚會。"
+    },
+    {
+        "word": "mind",
+        "chinese_translation": "介意",
+        "example_sentence": "I don't mind the expense.",
+        "translation_of_example": "價錢多少沒有關係。"
+    },
+    {
+        "word": "every",
+        "chinese_translation": "每一",
+        "example_sentence": "Sharon wants to read every book on the shelf.",
+        "translation_of_example": "Sharon 想要閱讀書架上的每一本書。"
+    },
+    {
+        "word": "enough",
+        "chinese_translation": "足夠的",
+        "example_sentence": "We don't have enough money.",
+        "translation_of_example": "我們的錢不夠。"
+    },
+    {
+        "word": "try",
+        "chinese_translation": "嘗試",
+        "example_sentence": "I will try my best.",
+        "translation_of_example": "我會盡力而為。"
+    },
+    {
+        "word": "hell",
+        "chinese_translation": "地獄",
+        "example_sentence": "Go to hell.",
+        "translation_of_example": "去死。"
+    },
+    {
+        "word": "came",
+        "chinese_translation": "來（過去式）",
+        "example_sentence": "The servant came into the bedroom with a cup of tea.",
+        "translation_of_example": "僕人端著一杯茶進入臥室。"
+    },
+    {
+        "word": "someone",
+        "chinese_translation": "某人",
+        "example_sentence": "Someone is knocking at the door.",
+        "translation_of_example": "有人在敲門。"
+    },
+    {
+        "word": "own",
+        "chinese_translation": "自己的；擁有",
+        "example_sentence": "My uncle owns a business.",
+        "translation_of_example": "我的叔叔擁有一間商店。"
+    },
+    {
+        "word": "family",
+        "accent": "/ˈfæməli/",
+        "tw": "家庭",
+        "example": "He has a large family.",
+        "tw_ex": "他有一個大家庭。"
+    },
+    {
+        "word": "whole",
+        "accent": "/həʊl/",
+        "tw": "整個的；全部的",
+        "example": "He read the whole book in one day.",
+        "tw_ex": "他一天內讀完了整本書。"
+    },
+    {
+        "word": "another",
+        "accent": "/əˈnʌðə(r)/",
+        "tw": "另一個",
+        "example": "Can I have another cup of coffee?",
+        "tw_ex": "我能再喝一杯咖啡嗎？"
+    },
+    {
+        "word": "house",
+        "accent": "/haʊs/",
+        "tw": "房子",
+        "example": "They bought a new house.",
+        "tw_ex": "他們買了一棟新房子。"
+    },
+    {
+        "word": "yourself",
+        "accent": "/jɔːˈself/",
+        "tw": "你自己",
+        "example": "Be careful and don't hurt yourself.",
+        "tw_ex": "小心，不要傷到你自己。"
+    },
+    {
+        "word": "idea",
+        "accent": "/aɪˈdɪə/",
+        "tw": "主意；想法",
+        "example": "It was a great idea to go to the beach.",
+        "tw_ex": "去海邊是個很棒的主意。"
+    },
+    {
+        "word": "ask",
+        "accent": "/ɑːsk/",
+        "tw": "詢問",
+        "example": "Don't be afraid to ask for help.",
+        "tw_ex": "不要害怕尋求幫助。"
+    },
+    {
+        "word": "best",
+        "accent": "/best/",
+        "tw": "最好的",
+        "example": "This is the best movie I have ever seen.",
+        "tw_ex": "這是我看過最好的電影。"
+    },
+    {
+        "word": "must",
+        "accent": "/mʌst/",
+        "tw": "必須",
+        "example": "You must be on time.",
+        "tw_ex": "你必須準時。"
+    },
+    {
+        "word": "old",
+        "accent": "/əʊld/",
+        "tw": "老的；舊的",
+        "example": "How old are you?",
+        "tw_ex": "你幾歲了？"
+    },
+    {
+        "word": "woman",
+        "accent": "/ˈwʊmən/",
+        "tw": "女人",
+        "example": "The woman in the red dress is my aunt.",
+        "tw_ex": "那位穿紅色裙子的女人是我的阿姨。"
+    },
+    {
+        "word": "hello",
+        "accent": "/heˈləʊ/",
+        "tw": "你好",
+        "example": "Hello, how are you?",
+        "tw_ex": "你好，你最近怎麼樣？"
+    },
+    {
+        "word": "which",
+        "accent": "/wɪtʃ/",
+        "tw": "哪一個",
+        "example": "Which one do you prefer?",
+        "tw_ex": "你比較喜歡哪一個？"
+    },
+    {
+        "word": "room",
+        "accent": "/ruːm/",
+        "tw": "房間",
+        "example": "The hotel room was very clean.",
+        "tw_ex": "這間旅館房間很乾淨。"
+    },
+    {
+        "word": "money",
+        "accent": "/ˈmʌni/",
+        "tw": "錢",
+        "example": "I don't have enough money to buy it.",
+        "tw_ex": "我沒有足夠的錢買它。"
+    },
+    {
+        "word": "left",
+        "accent": "/left/",
+        "tw": "離開（過去式）；左邊",
+        "example": "I left my keys at home.",
+        "tw_ex": "我把鑰匙忘在家裡了。"
+    },
+    {
+        "word": "tonight",
+        "accent": "/təˈnaɪt/",
+        "tw": "今晚",
+        "example": "We are going out for dinner tonight.",
+        "tw_ex": "我們今晚要出去吃晚餐。"
+    },
+    {
+        "word": "real",
+        "accent": "/ˈriːəl/",
+        "tw": "真的；真實的",
+        "example": "Is this a real diamond?",
+        "tw_ex": "這是真的鑽石嗎？"
+    },
+    {
+        "word": "son",
+        "accent": "/sʌn/",
+        "tw": "兒子",
+        "example": "My son is a doctor.",
+        "tw_ex": "我的兒子是一名醫生。"
+    },
+    {
+        "word": "hope",
+        "accent": "/həʊp/",
+        "tw": "希望",
+        "example": "I hope you have a great day.",
+        "tw_ex": "我希望你有美好的一天。"
+    },
+    {
+        "word": "name",
+        "accent": "/neɪm/",
+        "tw": "名字",
+        "example": "What's your name?",
+        "tw_ex": "你叫什麼名字？"
+    },
+    {
+        "word": "same",
+        "accent": "/seɪm/",
+        "tw": "一樣的",
+        "example": "We have the same T-shirt.",
+        "tw_ex": "我們有同一件T恤。"
+    },
+    {
+        "word": "happy",
+        "accent": "/ˈhæpi/",
+        "tw": "快樂的",
+        "example": "She looks so happy.",
+        "tw_ex": "她看起來好開心。"
+    },
+    {
+        "word": "pretty",
+        "accent": "/ˈprɪti/",
+        "tw": "漂亮的；相當地",
+        "example": "That's a pretty dress.",
+        "tw_ex": "那件洋裝很漂亮。"
+    },
+    {
+        "word": "girl",
+        "accent": "/ɡɜːl/",
+        "tw": "女孩",
+        "example": "The girl is reading a book.",
+        "tw_ex": "那個女孩正在讀一本書。"
+    },
+    {
+        "word": "sir",
+        "accent": "/sɜː(r)/",
+        "tw": "先生",
+        "example": "Excuse me, sir.",
+        "tw_ex": "先生，不好意思。"
+    },
+    {
+        "word": "show",
+        "accent": "/ʃəʊ/",
+        "tw": "展示；表演",
+        "example": "Can you show me the way?",
+        "tw_ex": "你能告訴我怎麼走嗎？"
+    },
+    {
+        "word": "already",
+        "accent": "/ɔːlˈredi/",
+        "tw": "已經",
+        "example": "I have already finished my homework.",
+        "tw_ex": "我已經完成我的功課了。"
+    },
+    {
+        "word": "may",
+        "accent": "/meɪ/",
+        "tw": "可以；可能",
+        "example": "May I come in?",
+        "tw_ex": "我可以進來嗎？"
+    },
+    {
+        "word": "next",
+        "accent": "/nekst/",
+        "tw": "下一個",
+        "example": "What's the next station?",
+        "tw_ex": "下一站是哪裡？"
+    },
+    {
+        "word": "three",
+        "accent": "/θriː/",
+        "tw": "三",
+        "example": "There are three apples on the table.",
+        "tw_ex": "桌子上有三個蘋果。"
+    },
+    {
+        "word": "found",
+        "accent": "/faʊnd/",
+        "tw": "發現 (find的過去式)",
+        "example": "She found her keys under the sofa.",
+        "tw_ex": "她在沙發下面找到了鑰匙。"
+    },
+    {
+        "word": "world",
+        "accent": "/wɜːld/",
+        "tw": "世界",
+        "example": "The whole world is watching.",
+        "tw_ex": "全世界都在看。"
+    },
+    {
+        "word": "honey",
+        "accent": "/ˈhʌni/",
+        "tw": "蜂蜜；親愛的",
+        "example": "Would you like some honey in your tea?",
+        "tw_ex": "你的茶裡要加點蜂蜜嗎？"
+    },
+    {
+        "word": "myself",
+        "accent": "/maɪˈself/",
+        "tw": "我自己",
+        "example": "I can do it myself.",
+        "tw_ex": "我自己可以做。"
+    },
+    {
+        "word": "exactly",
+        "accent": "/ɪɡˈzæktli/",
+        "tw": "確切地；正好",
+        "example": "That's exactly what I wanted.",
+        "tw_ex": "這正是我想要的。"
+    },
+    {
+        "word": "probably",
+        "accent": "/ˈprɒbəbli/",
+        "tw": "可能",
+        "example": "It will probably rain tomorrow.",
+        "tw_ex": "明天可能會下雨。"
+    },
+    {
+        "word": "hurt",
+        "accent": "/hɜːt/",
+        "tw": "傷害；疼痛",
+        "example": "My head hurts.",
+        "tw_ex": "我頭痛。"
+    },
+    {
+        "word": "both",
+        "accent": "/bəʊθ/",
+        "tw": "兩者都",
+        "example": "Both of them are my friends.",
+        "tw_ex": "他們兩位都是我的朋友。"
+    },
+    {
+        "word": "while",
+        "accent": "/waɪl/",
+        "tw": "當...的時候",
+        "example": "While I was studying, the phone rang.",
+        "tw_ex": "當我在唸書時，電話響了。"
+    },
+    {
+        "word": "dead",
+        "accent": "/ded/",
+        "tw": "死的",
+        "example": "He has been dead for five years.",
+        "tw_ex": "他已經去世五年了。"
+    },
+    {
+        "word": "alone",
+        "accent": "/əˈləʊn/",
+        "tw": "單獨地",
+        "example": "He lives alone in a big house.",
+        "tw_ex": "他一個人住在一棟大房子裡。"
+    },
+    {
+        "word": "since",
+        "accent": "/sɪns/",
+        "tw": "自從",
+        "example": "I haven't seen him since last year.",
+        "tw_ex": "自從去年以來，我就沒見過他了。"
+    },
+    {
+        "word": "excuse",
+        "accent": "/ɪkˈskjuːs/",
+        "tw": "藉口；原諒",
+        "example": "Please excuse my bad manners.",
+        "tw_ex": "請原諒我的失禮。"
+    },
+    {
+        "word": "start",
+        "accent": "/stɑːt/",
+        "tw": "開始",
+        "example": "Let's start the meeting now.",
+        "tw_ex": "我們現在開始會議吧。"
+    },
+    {
+        "word": "kill",
+        "accent": "/kɪl/",
+        "tw": "殺害",
+        "example": "The poison can kill a mouse.",
+        "tw_ex": "這個毒藥可以毒死一隻老鼠。"
+    },
+    {
+        "word": "hard",
+        "accent": "/hɑːd/",
+        "tw": "困難的；努力地",
+        "example": "He works hard every day.",
+        "tw_ex": "他每天都很努力工作。"
+    },
+    {
+        "word": "today",
+        "accent": "/təˈdeɪ/",
+        "tw": "今天",
+        "example": "What are you doing today?",
+        "tw_ex": "你今天要做什麼？"
+    },
+    {
+        "word": "car",
+        "accent": "/kɑː(r)/",
+        "tw": "汽車",
+        "example": "I need to buy a new car.",
+        "tw_ex": "我需要買一輛新車。"
+    },
+    {
+        "word": "ready",
+        "accent": "/ˈredi/",
+        "tw": "準備好的",
+        "example": "Are you ready to go?",
+        "tw_ex": "你準備好要出發了嗎？"
+    },
+    {
+        "word": "until",
+        "accent": "/ənˈtɪl/",
+        "tw": "直到",
+        "example": "I'll wait here until you come back.",
+        "tw_ex": "我會在這裡等到你回來。"
+    },
+    {
+        "word": "without",
+        "accent": "/wɪˈðaʊt/",
+        "tw": "沒有",
+        "example": "Don't go out without a coat.",
+        "tw_ex": "出門不要不穿外套。"
+    },
+    {
+        "word": "whatever",
+        "accent": "/wɒtˈevə(r)/",
+        "tw": "無論什麼",
+        "example": "Whatever you do, be happy.",
+        "tw_ex": "無論你做什麼，都要快樂。"
+    },
+    {
+        "word": "deal",
+        "accent": "/diːl/",
+        "tw": "處理；交易",
+        "example": "We made a good deal.",
+        "tw_ex": "我們做了一筆不錯的交易。"
+    },
+    {
+        "word": "took",
+        "accent": "/tʊk/",
+        "tw": "拿（take的過去式）",
+        "example": "He took my book by mistake.",
+        "tw_ex": "他拿錯了我的書。"
+    },
+    {
+        "word": "once",
+        "accent": "/wʌns/",
+        "tw": "一次",
+        "example": "I've been there once before.",
+        "tw_ex": "我之前去過那裡一次。"
+    },
+    {
+        "word": "friend",
+        "accent": "/frend/",
+        "tw": "朋友",
+        "example": "She is my best friend.",
+        "tw_ex": "她是我最好的朋友。"
+    },
+    {
+        "word": "head",
+        "accent": "/hed/",
+        "tw": "頭",
+        "example": "My head hurts.",
+        "tw_ex": "我頭痛。"
+    },
+    {
+        "word": "stuff",
+        "accent": "/stʌf/",
+        "tw": "東西",
+        "example": "I have a lot of stuff to do.",
+        "tw_ex": "我有很多事情要做。"
+    },
+    {
+        "word": "most",
+        "accent": "/məʊst/",
+        "tw": "大多數",
+        "example": "Most people like ice cream.",
+        "tw_ex": "大多數人喜歡冰淇淋。"
+    },
+    {
+        "word": "worry",
+        "accent": "/ˈwʌri/",
+        "tw": "擔心",
+        "example": "Don't worry, everything will be fine.",
+        "tw_ex": "別擔心，一切都會好的。"
+    },
+    {
+        "word": "second",
+        "accent": "/ˈsekənd/",
+        "tw": "第二；秒",
+        "example": "He finished in second place.",
+        "tw_ex": "他得了第二名。"
+    },
+    {
+        "word": "part",
+        "accent": "/pɑːt/",
+        "tw": "部分",
+        "example": "This is the most important part of the plan.",
+        "tw_ex": "這是這個計畫最重要的部分。"
+    },
+    {
+        "word": "truth",
+        "accent": "/truːθ/",
+        "tw": "事實",
+        "example": "Tell me the truth.",
+        "tw_ex": "告訴我事實。"
+    },
+    {
+        "word": "school",
+        "accent": "/skuːl/",
+        "tw": "學校",
+        "example": "I have to go to school.",
+        "tw_ex": "我必須去上學。"
+    },
+    {
+        "word": "face",
+        "accent": "/feɪs/",
+        "tw": "臉",
+        "example": "She has a beautiful face.",
+        "tw_ex": "她有一張漂亮的臉。"
+    },
+    {
+        "word": "forget",
+        "accent": "/fəˈɡet/",
+        "tw": "忘記",
+        "example": "Don't forget to call me.",
+        "tw_ex": "別忘記打電話給我。"
+    },
+    {
+        "word": "business",
+        "accent": "/ˈbɪznəs/",
+        "tw": "生意；業務",
+        "example": "He has his own business.",
+        "tw_ex": "他有自己的事業。"
+    },
+    {
+        "word": "each",
+        "accent": "/iːtʃ/",
+        "tw": "每個",
+        "example": "Each student has a book.",
+        "tw_ex": "每個學生都有一本書。"
+    },
+    {
+        "word": "cause",
+        "accent": "/kɔːz/",
+        "tw": "造成；原因",
+        "example": "What was the cause of the accident?",
+        "tw_ex": "這起事故的原因是什麼？"
+    },
+    {
+        "word": "soon",
+        "accent": "/suːn/",
+        "tw": "很快地",
+        "example": "See you soon.",
+        "tw_ex": "很快再見。"
+    },
+    {
+        "word": "wife",
+        "accent": "/waɪf/",
+        "tw": "妻子",
+        "example": "My wife is a teacher.",
+        "tw_ex": "我的妻子是一名老師。"
+    },
+    {
+        "word": "use",
+        "accent": "/juːz/",
+        "tw": "使用",
+        "example": "Can I use your phone?",
+        "tw_ex": "我可以用你的電話嗎？"
+    },
+    {
+        "word": "chance",
+        "accent": "/tʃɑːns/",
+        "tw": "機會",
+        "example": "You have a chance to win.",
+        "tw_ex": "你有機會贏。"
+    },
+    {
+        "word": "run",
+        "accent": "/rʌn/",
+        "tw": "跑",
+        "example": "He can run very fast.",
+        "tw_ex": "他跑得很快。"
+    },
+    {
+        "word": "move",
+        "accent": "/muːv/",
+        "tw": "移動",
+        "example": "Let's move to the next room.",
+        "tw_ex": "我們移到下一個房間吧。"
+    },
+    {
+        "word": "anyone",
+        "accent": "/ˈeniwʌn/",
+        "tw": "任何人",
+        "example": "Does anyone know the answer?",
+        "tw_ex": "有人知道答案嗎？"
+    },
+    {
+        "word": "person",
+        "accent": "/ˈpɜːsn/",
+        "tw": "人",
+        "example": "She is a good person.",
+        "tw_ex": "她是一個好人。"
+    },
+    {
+        "word": "bye",
+        "accent": "/baɪ/",
+        "tw": "再見",
+        "example": "Bye, see you tomorrow.",
+        "tw_ex": "再見，明天見。"
+    },
+    {
+        "word": "somebody",
+        "accent": "/ˈsʌmbədi/",
+        "tw": "某人",
+        "example": "Somebody is knocking at the door.",
+        "tw_ex": "有人在敲門。"
+    },
+    {
+        "word": "heart",
+        "accent": "/hɑːt/",
+        "tw": "心",
+        "example": "My heart is beating fast.",
+        "tw_ex": "我的心跳得很快。"
+    },
+    {
+        "word": "such",
+        "accent": "/sʌtʃ/",
+        "tw": "如此地",
+        "example": "It was such a beautiful day.",
+        "tw_ex": "那是如此美好的一天。"
+    },
+    {
+        "word": "point",
+        "accent": "/pɔɪnt/",
+        "tw": "點；要點",
+        "example": "He made some good points during the discussion.",
+        "tw_ex": "他在討論中提出了一些很好的觀點。"
+    },
+    {
+        "word": "later",
+        "accent": "/ˈleɪtə(r)/",
+        "tw": "稍後",
+        "example": "See you later.",
+        "tw_ex": "晚點見。"
+    },
+    {
+        "word": "meet",
+        "accent": "/miːt/",
+        "tw": "見面",
+        "example": "Nice to meet you.",
+        "tw_ex": "很高興認識你。"
+    },
+    {
+        "word": "anyway",
+        "accent": "/ˈeniweɪ/",
+        "tw": "無論如何",
+        "example": "I don't like it, but I'll do it anyway.",
+        "tw_ex": "我不喜歡，但我無論如何都會去做。"
+    },
+    {
+        "word": "phone",
+        "accent": "/fəʊn/",
+        "tw": "電話",
+        "example": "I need to buy a new phone.",
+        "tw_ex": "我需要買一支新手機。"
+    },
+    {
+        "word": "reason",
+        "accent": "/ˈriːzn/",
+        "tw": "原因",
+        "example": "I don't know the reason why he left.",
+        "tw_ex": "我不知道他離開的原因。"
+    },
+    {
+        "word": "lost",
+        "accent": "/lɒst/",
+        "tw": "失去（lose的過去式）",
+        "example": "I lost my key.",
+        "tw_ex": "我把我的鑰匙弄丟了。"
+    },
+    {
+        "word": "look",
+        "accent": "/lʊk/",
+        "tw": "看",
+        "example": "Look at the stars.",
+        "tw_ex": "看星星。"
+    },
+    {
+        "word": "bring",
+        "accent": "/brɪŋ/",
+        "tw": "帶來",
+        "example": "Bring me a cup of tea.",
+        "tw_ex": "給我帶一杯茶來。"
+    },
+    {
+        "word": "case",
+        "accent": "/keɪs/",
+        "tw": "情況；箱子",
+        "example": "In this case, we have to wait.",
+        "tw_ex": "在這種情況下，我們必須等待。"
+    },
+    {
+        "word": "wish",
+        "accent": "/wɪʃ/",
+        "tw": "希望；願望",
+        "example": "I wish I could fly.",
+        "tw_ex": "我希望我會飛。"
+    },
+    {
+        "word": "tomorrow",
+        "accent": "/təˈmɒrəʊ/",
+        "tw": "明天",
+        "example": "I'll see you tomorrow.",
+        "tw_ex": "我明天見你。"
+    },
+    {
+        "word": "trust",
+        "accent": "/trʌst/",
+        "tw": "信任",
+        "example": "I trust you completely.",
+        "tw_ex": "我完全信任你。"
+    },
+    {
+        "word": "check",
+        "accent": "/tʃek/",
+        "tw": "檢查",
+        "example": "Let me check the time.",
+        "tw_ex": "讓我確認一下時間。"
+    },
+    {
+        "word": "end",
+        "accent": "/end/",
+        "tw": "結束",
+        "example": "The movie has a happy end.",
+        "tw_ex": "這部電影有個快樂的結局。"
+    },
+    {
+        "word": "late",
+        "accent": "/leɪt/",
+        "tw": "遲的",
+        "example": "I am late for school.",
+        "tw_ex": "我上學遲到了。"
+    },
+    {
+        "word": "anymore",
+        "accent": "/ˌeni ˈmɔː(r)/",
+        "tw": "不再",
+        "example": "I don't love you anymore.",
+        "tw_ex": "我不再愛你了。"
+    },
+    {
+        "word": "five",
+        "accent": "/faɪv/",
+        "tw": "五",
+        "example": "There are five apples in the basket.",
+        "tw_ex": "籃子裡有五個蘋果。"
+    },
+    {
+        "word": "least",
+        "accent": "/liːst/",
+        "tw": "最少",
+        "example": "At least we have each other.",
+        "tw_ex": "至少我們還有彼此。"
+    },
+    {
+        "word": "town",
+        "accent": "/taʊn/",
+        "tw": "城鎮",
+        "example": "He lives in a small town.",
+        "tw_ex": "他住在一座小鎮裡。"
+    },
+    {
+        "word": "year",
+        "accent": "/jɪə(r)/",
+        "tw": "年",
+        "example": "The year 2024 was a great year.",
+        "tw_ex": "2024年是很棒的一年。"
+    },
+    {
+        "word": "make",
+        "accent": "/meɪk/",
+        "tw": "製造；使得",
+        "example": "You make me happy.",
+        "tw_ex": "你讓我感到快樂。"
+    },
+    {
+        "word": "mean",
+        "accent": "/miːn/",
+        "tw": "意謂；刻薄的",
+        "example": "What does this word mean?",
+        "tw_ex": "這個單字是什麼意思？"
+    },
+    {
+        "word": "play",
+        "accent": "/pleɪ/",
+        "tw": "玩；演奏",
+        "example": "Let's go out and play.",
+        "tw_ex": "我們出去玩吧。"
+    },
+    {
+        "word": "hate",
+        "accent": "/heɪt/",
+        "tw": "討厭",
+        "example": "I hate being late.",
+        "tw_ex": "我討厭遲到。"
+    },
+    {
+        "word": "ago",
+        "accent": "/əˈɡəʊ/",
+        "tw": "以前",
+        "example": "He left five minutes ago.",
+        "tw_ex": "他五分鐘前離開了。"
+    },
+    {
+        "word": "beautiful",
+        "accent": "/ˈbjuːtɪfl/",
+        "tw": "漂亮的",
+        "example": "She is a beautiful girl.",
+        "tw_ex": "她是個漂亮的女孩。"
+    },
+    {
+        "word": "fact",
+        "accent": "/fækt/",
+        "tw": "事實",
+        "example": "In fact, I don't know him well.",
+        "tw_ex": "事實上，我對他並不了解。"
+    },
+    {
+        "word": "crazy",
+        "accent": "/ˈkreɪzi/",
+        "tw": "瘋狂的",
+        "example": "You are crazy!",
+        "tw_ex": "你瘋了！"
+    },
+    {
+        "word": "party",
+        "accent": "/ˈpɑːti/",
+        "tw": "派對",
+        "example": "We are having a party tonight.",
+        "tw_ex": "我們今晚要開派對。"
+    },
+    {
+        "word": "sit",
+        "accent": "/sɪt/",
+        "tw": "坐下",
+        "example": "Please sit down.",
+        "tw_ex": "請坐下。"
+    },
+    {
+        "word": "open",
+        "accent": "/ˈəʊpən/",
+        "tw": "打開",
+        "example": "Open the door.",
+        "tw_ex": "把門打開。"
+    },
+    {
+        "word": "afraid",
+        "accent": "/əˈfreɪd/",
+        "tw": "害怕的",
+        "example": "Don't be afraid.",
+        "tw_ex": "不要害怕。"
+    },
+    {
+        "word": "between",
+        "accent": "/bɪˈtwiːn/",
+        "tw": "在...之間",
+        "example": "The house is between the park and the school.",
+        "tw_ex": "房子在公園和學校之間。"
+    },
+    {
+        "word": "important",
+        "accent": "/ɪmˈpɔːtnt/",
+        "tw": "重要的",
+        "example": "This is a very important meeting.",
+        "tw_ex": "這是一個非常重要的會議。"
+    },
+    {
+        "word": "rest",
+        "accent": "/rest/",
+        "tw": "休息",
+        "example": "You should take a rest.",
+        "tw_ex": "你應該休息一下。"
+    },
+    {
+        "word": "fun",
+        "accent": "/fʌn/",
+        "tw": "樂趣",
+        "example": "We had a lot of fun.",
+        "tw_ex": "我們玩得很開心。"
+    },
+    {
+        "word": "kid",
+        "accent": "/kɪd/",
+        "tw": "小孩",
+        "example": "That kid is my son.",
+        "tw_ex": "那個小孩是我的兒子。"
+    },
+    {
+        "word": "glad",
+        "accent": "/ɡlæd/",
+        "tw": "高興的",
+        "example": "I'm glad to hear that.",
+        "tw_ex": "我很高興聽到這件事。"
+    },
+    {
+        "word": "everyone",
+        "accent": "/ˈevriwʌn/",
+        "tw": "每個人",
+        "example": "Everyone is here.",
+        "tw_ex": "每個人都在這裡。"
+    },
+    {
+        "word": "day",
+        "accent": "/deɪ/",
+        "tw": "天；日子",
+        "example": "Have a nice day.",
+        "tw_ex": "祝你有美好的一天。"
+    },
+    {
+        "word": "sister",
+        "accent": "/ˈsɪstə(r)/",
+        "tw": "姊妹",
+        "example": "I have one sister.",
+        "tw_ex": "我有一個姊姊或妹妹。"
+    },
+    {
+        "word": "minute",
+        "accent": "/ˈmɪnɪt/",
+        "tw": "分鐘",
+        "example": "I'll be there in a minute.",
+        "tw_ex": "我一分鐘後就到。"
+    },
+    {
+        "word": "everybody",
+        "accent": "/ˈevribɒdi/",
+        "tw": "每個人",
+        "example": "Everybody is happy.",
+        "tw_ex": "每個人都很開心。"
+    },
+    {
+        "word": "bit",
+        "accent": "/bɪt/",
+        "tw": "一點點",
+        "example": "Can I have a little bit of your cake?",
+        "tw_ex": "我可以吃你的一小塊蛋糕嗎？"
+    },
+    {
+        "word": "couple",
+        "accent": "/ˈkʌpl/",
+        "tw": "一對；幾個",
+        "example": "I saw a couple of friends at the store.",
+        "tw_ex": "我在商店看到幾個朋友。"
+    },
+    {
+        "word": "either",
+        "accent": "/ˈiːðə(r)/",
+        "tw": "兩者之一",
+        "example": "You can have either tea or coffee.",
+        "tw_ex": "你可以喝茶或咖啡，兩者之一。"
+    },
+    {
+        "word": "daughter",
+        "accent": "/ˈdɔːtə(r)/",
+        "tw": "女兒",
+        "example": "My daughter is a student.",
+        "tw_ex": "我的女兒是一名學生。"
+    },
+    {
+        "word": "under",
+        "accent": "/ˈʌndə(r)/",
+        "tw": "在...下面",
+        "example": "The cat is under the table.",
+        "tw_ex": "貓在桌子下面。"
+    },
+    {
+        "word": "break",
+        "accent": "/breɪk/",
+        "tw": "打破；休息",
+        "example": "Be careful, don't break the glass.",
+        "tw_ex": "小心，別打破玻璃。"
+    },
+    {
+        "word": "door",
+        "accent": "/dɔː(r)/",
+        "tw": "門",
+        "example": "Open the door, please.",
+        "tw_ex": "請開門。"
+    },
+    {
+        "word": "set",
+        "accent": "/set/",
+        "tw": "放置；一套",
+        "example": "Please set the table for dinner.",
+        "tw_ex": "請擺好餐桌準備晚餐。"
+    },
+    {
+        "word": "close",
+        "accent": "/kləʊz/",
+        "tw": "關閉；親近的",
+        "example": "Please close the window.",
+        "tw_ex": "請關窗。"
+    },
+    {
+        "word": "easy",
+        "accent": "/ˈiːzi/",
+        "tw": "容易的",
+        "example": "This test is very easy.",
+        "tw_ex": "這個測驗很簡單。"
+    },
+    {
+        "word": "doctor",
+        "accent": "/ˈdɒktə(r)/",
+        "tw": "醫生",
+        "example": "I need to see a doctor.",
+        "tw_ex": "我需要看醫生。"
+    },
+    {
+        "word": "far",
+        "accent": "/fɑː(r)/",
+        "tw": "遠的",
+        "example": "How far is the school from here?",
+        "tw_ex": "學校離這裡有多遠？"
+    },
+    {
+        "word": "walk",
+        "accent": "/wɔːk/",
+        "tw": "走路",
+        "example": "Let's go for a walk.",
+        "tw_ex": "我們去散步吧。"
+    },
+    {
+        "word": "need",
+        "accent": "/niːd/",
+        "tw": "需要",
+        "example": "I need your help.",
+        "tw_ex": "我需要你的幫助。"
+    },
+    {
+        "word": "trouble",
+        "accent": "/ˈtrʌbl/",
+        "tw": "麻煩",
+        "example": "Don't get into trouble.",
+        "tw_ex": "別惹麻煩。"
+    },
+    {
+        "word": "mine",
+        "accent": "/maɪn/",
+        "tw": "我的",
+        "example": "That book is mine.",
+        "tw_ex": "那本書是我的。"
+    },
+    {
+        "word": "though",
+        "accent": "/ðəʊ/",
+        "tw": "雖然",
+        "example": "I'm tired, though I still have to work.",
+        "tw_ex": "我很累，儘管我還是得工作。"
+    },
+    {
+        "word": "time",
+        "accent": "/taɪm/",
+        "tw": "時間",
+        "example": "What time is it?",
+        "tw_ex": "現在幾點了？"
+    },
+    {
+        "word": "different",
+        "accent": "/ˈdɪfrənt/",
+        "tw": "不同的",
+        "example": "We have different opinions.",
+        "tw_ex": "我們有不同的意見。"
+    },
+    {
+        "word": "hospital",
+        "accent": "/ˈhɒspɪtl/",
+        "tw": "醫院",
+        "example": "He is in the hospital.",
+        "tw_ex": "他在醫院裡。"
+    },
+    {
+        "word": "anybody",
+        "accent": "/ˈenibɒdi/",
+        "tw": "任何人",
+        "example": "Did anybody call me?",
+        "tw_ex": "有人打電話給我嗎？"
+    },
+    {
+        "word": "alright",
+        "accent": "/ɔːlˈraɪt/",
+        "tw": "沒關係；好的",
+        "example": "Are you alright?",
+        "tw_ex": "你還好嗎？"
+    },
+    {
+        "word": "wedding",
+        "accent": "/ˈwedɪŋ/",
+        "tw": "婚禮",
+        "example": "They are going to their friend's wedding.",
+        "tw_ex": "他們要去參加朋友的婚禮。"
+    },
+    {
+        "word": "shut",
+        "accent": "/ʃʌt/",
+        "tw": "關閉",
+        "example": "Shut the door behind you.",
+        "tw_ex": "把門在你身後關上。"
+    },
+    {
+        "word": "able",
+        "accent": "/ˈeɪbl/",
+        "tw": "能夠",
+        "example": "I am able to swim.",
+        "tw_ex": "我會游泳。"
+    },
+    {
+        "word": "die",
+        "accent": "/daɪ/",
+        "tw": "死亡",
+        "example": "He is afraid to die.",
+        "tw_ex": "他怕死。"
+    },
+    {
+        "word": "perfect",
+        "accent": "/ˈpɜːfɪkt/",
+        "tw": "完美的",
+        "example": "This is a perfect day.",
+        "tw_ex": "這是完美的一天。"
+    },
+    {
+        "word": "police",
+        "accent": "/pəˈliːs/",
+        "tw": "警察",
+        "example": "Call the police!",
+        "tw_ex": "打電話報警！"
+    },
+    {
+        "word": "stand",
+        "accent": "/stænd/",
+        "tw": "站立",
+        "example": "Please stand up.",
+        "tw_ex": "請站起來。"
+    },
+    {
+        "word": "hit",
+        "accent": "/hɪt/",
+        "tw": "打擊；擊中",
+        "example": "The ball hit the window.",
+        "tw_ex": "球打中了窗戶。"
+    },
+    {
+        "word": "story",
+        "accent": "/ˈstɔːri/",
+        "tw": "故事",
+        "example": "Tell me a story.",
+        "tw_ex": "給我講個故事。"
+    },
+    {
+        "word": "dinner",
+        "accent": "/ˈdɪnə(r)/",
+        "tw": "晚餐",
+        "example": "What's for dinner tonight?",
+        "tw_ex": "今晚晚餐吃什麼？"
+    },
+    {
+        "word": "against",
+        "accent": "/əˈɡenst/",
+        "tw": "反對",
+        "example": "He is against the idea.",
+        "tw_ex": "他反對這個想法。"
+    },
+    {
+        "word": "funny",
+        "accent": "/ˈfʌni/",
+        "tw": "好笑的",
+        "example": "That movie was really funny.",
+        "tw_ex": "那部電影真的很好笑。"
+    },
+    {
+        "word": "husband",
+        "accent": "/ˈhʌzbənd/",
+        "tw": "丈夫",
+        "example": "My husband is a chef.",
+        "tw_ex": "我的丈夫是一名廚師。"
+    },
+    {
+        "word": "almost",
+        "accent": "/ˈɔːlməʊst/",
+        "tw": "幾乎",
+        "example": "I'm almost finished.",
+        "tw_ex": "我差不多完成了。"
+    },
+    {
+        "word": "stupid",
+        "accent": "/ˈstjuːpɪd/",
+        "tw": "愚蠢的",
+        "example": "Don't be stupid.",
+        "tw_ex": "別傻了。"
+    },
+    {
+        "word": "pay",
+        "accent": "/peɪ/",
+        "tw": "支付",
+        "example": "I need to pay the bill.",
+        "tw_ex": "我需要支付帳單。"
+    },
+    {
+        "word": "answer",
+        "uk": "/ˈɑːnsə(r)/",
+        "us": "/ˈænsər/",
+        "tw": "回答",
+        "example": "I can answer you with complete honesty.",
+        "tw_ex": "我可以完全誠實地回答你。"
+    },
+    {
+        "word": "four",
+        "uk": "/fɔː(r)/",
+        "us": "/fɔːr/",
+        "tw": "四",
+        "example": "I have four books.",
+        "tw_ex": "我有四本書。"
+    },
+    {
+        "word": "office",
+        "uk": "/ˈɒfɪs/",
+        "us": "/ˈɑːfɪs/",
+        "tw": "辦公室",
+        "example": "He called me into his office.",
+        "tw_ex": "他把我叫進他的辦公室。"
+    },
+    {
+        "word": "cool",
+        "uk": "/kuːl/",
+        "us": "/kuːl/",
+        "tw": "涼爽的",
+        "example": "It was a lovely cool evening.",
+        "tw_ex": "那是个凉爽的夜晚。"
+    },
+    {
+        "word": "news",
+        "uk": "/njuːz/",
+        "us": "/nuːz/",
+        "tw": "消息",
+        "example": "News travels pretty fast around here.",
+        "tw_ex": "在這裡，消息傳得很快。"
+    },
+    {
+        "word": "child",
+        "uk": "/tʃaɪld/",
+        "us": "/tʃaɪld/",
+        "tw": "孩子",
+        "example": "My child is a student.",
+        "tw_ex": "我的孩子是一名學生。"
+    },
+    {
+        "word": "half",
+        "uk": "/hɑːf/",
+        "us": "/hæf/",
+        "tw": "一半",
+        "example": "Cut the apple in half.",
+        "tw_ex": "把蘋果切成兩半。"
+    },
+    {
+        "word": "yours",
+        "uk": "/jɔːz/",
+        "us": "/jɔːrz/",
+        "tw": "你的",
+        "example": "Is this book yours?",
+        "tw_ex": "這本書是你的嗎？"
+    },
+    {
+        "word": "moment",
+        "uk": "/ˈməʊmənt/",
+        "us": "/ˈməʊmənt/",
+        "tw": "片刻",
+        "example": "Can you wait a moment?",
+        "tw_ex": "你能等一下嗎？"
+    },
+    {
+        "word": "sleep",
+        "uk": "/sliːp/",
+        "us": "/sliːp/",
+        "tw": "睡覺",
+        "example": "I must get some sleep - I'm exhausted.",
+        "tw_ex": "我必須睡一會兒——我太累了。"
+    },
+    {
+        "word": "young",
+        "uk": "/jʌŋ/",
+        "us": "/jʌŋ/",
+        "tw": "年輕的",
+        "example": "He is a young man.",
+        "tw_ex": "他是一個年輕人。"
+    },
+    {
+        "word": "men",
+        "uk": "/men/",
+        "us": "/men/",
+        "tw": "男人",
+        "example": "There were five men in the room.",
+        "tw_ex": "房間裡有五個男人。"
+    },
+    {
+        "word": "sonny",
+        "uk": "/ˈsʌni/",
+        "us": "/ˈsʌni/",
+        "tw": "孩子",
+        "example": "Look here, sonny, you've got a lot to learn!",
+        "tw_ex": "看着，小伙子，你要學的東西多着呢！"
+    },
+    {
+        "word": "lucky",
+        "uk": "/ˈlʌki/",
+        "us": "/ˈlʌki/",
+        "tw": "幸運的",
+        "example": "My family have been lucky in many ways.",
+        "tw_ex": "我的家人在很多方面都很幸運。"
+    },
+    {
+        "word": "pick",
+        "uk": "/pɪk/",
+        "us": "/pɪk/",
+        "tw": "選擇",
+        "example": "Pick a card.",
+        "tw_ex": "選一張卡片。"
+    },
+    {
+        "word": "sometimes",
+        "uk": "/ˈsʌmtaɪmz/",
+        "us": "/ˈsʌmtaɪmz/",
+        "tw": "有時",
+        "example": "Sometimes we take food with us and sometimes we buy food when we're there.",
+        "tw_ex": "有時我們自己帶食物，有時我們在那裡買。"
+    },
+    {
+        "word": "them",
+        "uk": "/ðem/",
+        "us": "/ðem/",
+        "tw": "他們",
+        "example": "I saw them at the park.",
+        "tw_ex": "我在公園看到了他們。"
+    },
+    {
+        "word": "bed",
+        "uk": "/bed/",
+        "us": "/bed/",
+        "tw": "床",
+        "example": "I'm going to bed.",
+        "tw_ex": "我要去睡覺了。"
+    },
+    {
+        "word": "also",
+        "uk": "/ˈɔːlsəʊ/",
+        "us": "/ˈɔːlsəʊ/",
+        "tw": "也",
+        "example": "She's a photographer and also writes books.",
+        "tw_ex": "她是个摄影师，还是个作家。"
+    },
+    {
+        "word": "date",
+        "uk": "/deɪt/",
+        "us": "/deɪt/",
+        "tw": "日期",
+        "example": "What's the date today?",
+        "tw_ex": "今天是幾號？"
+    },
+    {
+        "word": "line",
+        "uk": "/laɪn/",
+        "us": "/laɪn/",
+        "tw": "排",
+        "example": "Please stand in line.",
+        "tw_ex": "請排隊。"
+    },
+    {
+        "word": "lose",
+        "uk": "/luːz/",
+        "us": "/luːz/",
+        "tw": "丟失",
+        "example": "I lost my keys.",
+        "tw_ex": "我把鑰匙丟了。"
+    },
+    {
+        "word": "fire",
+        "uk": "/ˈfaɪə(r)/",
+        "us": "/ˈfaɪər/",
+        "tw": "火",
+        "example": "Be careful of the fire.",
+        "tw_ex": "小心火燭。"
+    },
+    {
+        "word": "free",
+        "uk": "/friː/",
+        "us": "/friː/",
+        "tw": "自由的",
+        "example": "The bird is free.",
+        "tw_ex": "這隻鳥是自由的。"
+    },
+    {
+        "word": "hand",
+        "uk": "/hænd/",
+        "us": "/hænd/",
+        "tw": "手",
+        "example": "She took my hand and gave it a squeeze.",
+        "tw_ex": "她抓著我的手，握了一下。"
+    },
+    {
+        "word": "serious",
+        "uk": "/ˈsɪəriəs/",
+        "us": "/ˈsɪriəs/",
+        "tw": "嚴肅的",
+        "example": "Are you serious?",
+        "tw_ex": "你是認真的嗎？"
+    },
+    {
+        "word": "shit",
+        "uk": "/ʃɪt/",
+        "us": "/ʃɪt/",
+        "tw": "狗屎",
+        "example": "There's so much dog shit on the pavement.",
+        "tw_ex": "人行道上有許多狗屎。"
+    },
+    {
+        "word": "behind",
+        "uk": "/bɪˈhaɪnd/",
+        "us": "/bɪˈhaɪnd/",
+        "tw": "在...後面",
+        "example": "Behind the cottage was a shed.",
+        "tw_ex": "在小屋的後面是一個棚子。"
+    },
+    {
+        "word": "inside",
+        "uk": "/ˌɪnˈsaɪd/",
+        "us": "/ˌɪnˈsaɪd/",
+        "tw": "裡面",
+        "example": "Did you clean the inside of the car?",
+        "tw_ex": "你把車內部擦乾淨了嗎？"
+    },
+    {
+        "word": "high",
+        "uk": "/haɪ/",
+        "us": "/haɪ/",
+        "tw": "高的",
+        "example": "The high walls of the prison.",
+        "tw_ex": "監獄的高牆。"
+    },
+    {
+        "word": "ahead",
+        "uk": "/əˈhed/",
+        "us": "/əˈhed/",
+        "tw": "在前面",
+        "example": "Rick walked on ahead of us.",
+        "tw_ex": "里克走在我們前面。"
+    },
+    {
+        "word": "wonderful",
+        "uk": "/ˈwʌndəfl/",
+        "us": "/ˈwʌndərfl/",
+        "tw": "精彩的",
+        "example": "The wonderful game of football.",
+        "tw_ex": "精彩的足球比賽。"
+    },
+    {
+        "word": "fight",
+        "uk": "/faɪt/",
+        "us": "/faɪt/",
+        "tw": "打架",
+        "example": "They had a fight.",
+        "tw_ex": "他們打了一架。"
+    },
+    {
+        "word": "past",
+        "uk": "/pɑːst/",
+        "us": "/pæst/",
+        "tw": "過去",
+        "example": "The past two elections were inconclusive.",
+        "tw_ex": "過去兩次選舉都無結果。"
+    },
+    {
+        "word": "cut",
+        "uk": "/kʌt/",
+        "us": "/kʌt/",
+        "tw": "切",
+        "example": "I cut myself with a knife.",
+        "tw_ex": "我用刀切到自己了。"
+    },
+    {
+        "word": "quite",
+        "uk": "/kwaɪt/",
+        "us": "/kwaɪt/",
+        "tw": "相當",
+        "example": "I quite like it.",
+        "tw_ex": "我相當喜歡它。"
+    },
+    {
+        "word": "number",
+        "uk": "/ˈnʌmbə(r)/",
+        "us": "/ˈnʌmbər/",
+        "tw": "數字",
+        "example": "Think of a number between one and ten.",
+        "tw_ex": "在1至10之間想一個數。"
+    },
+    {
+        "word": "sick",
+        "uk": "/sɪk/",
+        "us": "/sɪk/",
+        "tw": "生病的",
+        "example": "A sick child.",
+        "tw_ex": "生病的孩子。"
+    },
+    {
+        "word": "game",
+        "uk": "/ɡeɪm/",
+        "us": "/ɡeɪm/",
+        "tw": "遊戲",
+        "example": "This is a great game for children's parties.",
+        "tw_ex": "這是孩子們聚會上的一個絕妙的遊戲。"
+    },
+    {
+        "word": "eat",
+        "uk": "/iːt/",
+        "us": "/iːt/",
+        "tw": "吃",
+        "example": "Do you eat meat?",
+        "tw_ex": "你吃肉嗎？"
+    },
+    {
+        "word": "nobody",
+        "uk": "/ˈnəʊbədi/",
+        "us": "/ˈnəʊbədi/",
+        "tw": "沒有人",
+        "example": "Nobody has any money to rebuild.",
+        "tw_ex": "沒有人有錢重建。"
+    },
+    {
+        "word": "death",
+        "accent": "/deθ/",
+        "tw": "死亡",
+        "example": "He has faced death many times.",
+        "tw_ex": "他經歷過很多次死亡威脅。"
+    },
+    {
+        "word": "along",
+        "accent": "/əˈlɒŋ/",
+        "tw": "沿著",
+        "example": "We walked along the river.",
+        "tw_ex": "我們沿著河邊走。"
+    },
+    {
+        "word": "finally",
+        "accent": "/ˈfaɪnəli/",
+        "tw": "最後；終於",
+        "example": "After months of work, the project is finally finished.",
+        "tw_ex": "經過幾個月的工作，這個專案終於完成了。"
+    },
+    {
+        "word": "upset",
+        "accent": "/ˌʌpˈset/",
+        "tw": "難過的；煩亂的",
+        "example": "She was very upset when she heard the news.",
+        "tw_ex": "她聽到這個消息時非常難過。"
+    },
+    {
+        "word": "seem",
+        "accent": "/siːm/",
+        "tw": "似乎；好像",
+        "example": "You seem to be in a good mood.",
+        "tw_ex": "你看起來心情不錯。"
+    },
+    {
+        "word": "safe",
+        "accent": "/seɪf/",
+        "tw": "安全的",
+        "example": "I hope you have a safe trip.",
+        "tw_ex": "我希望你旅途平安。"
+    },
+    {
+        "word": "children",
+        "accent": "/ˈtʃɪldrən/",
+        "tw": "孩子們",
+        "example": "Children were playing in the park.",
+        "tw_ex": "孩子們在公園裡玩耍。"
+    },
+    {
+        "word": "front",
+        "accent": "/frʌnt/",
+        "tw": "前面",
+        "example": "He stood in front of the door.",
+        "tw_ex": "他站在門前。"
+    },
+    {
+        "word": "shot",
+        "accent": "/ʃɒt/",
+        "tw": "射擊；開槍",
+        "example": "He fired a shot at the target.",
+        "tw_ex": "他向目標開了一槍。"
+    },
+    {
+        "word": "love",
+        "accent": "/lʌv/",
+        "tw": "愛",
+        "example": "I love you.",
+        "tw_ex": "我愛你。"
+    },
+    {
+        "word": "clear",
+        "accent": "/klɪə(r)/",
+        "tw": "清楚的",
+        "example": "The instructions are clear.",
+        "tw_ex": "這些指示很清楚。"
+    },
+    {
+        "word": "hot",
+        "accent": "/hɒt/",
+        "tw": "熱的",
+        "example": "Be careful, the coffee is hot.",
+        "tw_ex": "小心，咖啡很燙。"
+    },
+    {
+        "word": "six",
+        "accent": "/sɪks/",
+        "tw": "六",
+        "example": "There are six people in the room.",
+        "tw_ex": "房間裡有六個人。"
+    },
+    {
+        "word": "drink",
+        "accent": "/drɪŋk/",
+        "tw": "喝",
+        "example": "I need a drink of water.",
+        "tw_ex": "我需要喝點水。"
+    },
+    {
+        "word": "absolutely",
+        "accent": "/ˈæbsəluːtli/",
+        "tw": "絕對地",
+        "example": "That is absolutely correct.",
+        "tw_ex": "那絕對是正確的。"
+    },
+    {
+        "word": "how",
+        "accent": "/haʊ/",
+        "tw": "如何",
+        "example": "How are you?",
+        "tw_ex": "你好嗎？"
+    },
+    {
+        "word": "sweet",
+        "accent": "/swiːt/",
+        "tw": "甜的",
+        "example": "This cake is too sweet.",
+        "tw_ex": "這個蛋糕太甜了。"
+    },
+    {
+        "word": "alive",
+        "accent": "/əˈlaɪv/",
+        "tw": "活著的",
+        "example": "Is he still alive?",
+        "tw_ex": "他還活著嗎？"
+    },
+    {
+        "word": "sense",
+        "accent": "/sens/",
+        "tw": "感覺；理智",
+        "example": "What you said makes no sense.",
+        "tw_ex": "你說的話沒有道理。"
+    },
+    {
+        "word": "happen",
+        "accent": "/ˈhæpən/",
+        "tw": "發生",
+        "example": "What happened?",
+        "tw_ex": "發生了什麼事？"
+    },
+    {
+        "word": "special",
+        "accent": "/ˈspeʃl/",
+        "tw": "特別的",
+        "example": "You are special to me.",
+        "tw_ex": "你對我來說很特別。"
+    },
+    {
+        "word": "bet",
+        "accent": "/bet/",
+        "tw": "打賭",
+        "example": "I bet he will be late.",
+        "tw_ex": "我打賭他會遲到。"
+    },
+    {
+        "word": "blood",
+        "accent": "/blʌd/",
+        "tw": "血",
+        "example": "He has royal blood.",
+        "tw_ex": "他有皇室血統。"
+    },
+    {
+        "word": "lie",
+        "accent": "/laɪ/",
+        "tw": "說謊；躺",
+        "example": "Don't lie to me.",
+        "tw_ex": "不要對我說謊。"
+    },
+    {
+        "word": "full",
+        "accent": "/fʊl/",
+        "tw": "滿的；飽的",
+        "example": "The glass is full of water.",
+        "tw_ex": "玻璃杯裡裝滿了水。"
+    },
+    {
+        "word": "meeting",
+        "accent": "/ˈmiːtɪŋ/",
+        "tw": "會議",
+        "example": "I have a meeting at 2 p.m.",
+        "tw_ex": "我下午兩點有個會議。"
+    },
+    {
+        "word": "dear",
+        "accent": "/dɪə(r)/",
+        "tw": "親愛的",
+        "example": "My dear friend.",
+        "tw_ex": "我親愛的朋友。"
+    },
+    {
+        "word": "coffee",
+        "accent": "/ˈkɒfi/",
+        "tw": "咖啡",
+        "example": "I'd like a cup of coffee.",
+        "tw_ex": "我想要一杯咖啡。"
+    },
+    {
+        "word": "sound",
+        "accent": "/saʊnd/",
+        "tw": "聲音",
+        "example": "I heard a strange sound.",
+        "tw_ex": "我聽到了一個奇怪的聲音。"
+    },
+    {
+        "word": "fault",
+        "accent": "/fɔːlt/",
+        "tw": "錯誤；過失",
+        "example": "It's my fault.",
+        "tw_ex": "這是我的錯。"
+    },
+    {
+        "word": "water",
+        "accent": "/ˈwɔːtə(r)/",
+        "tw": "水",
+        "example": "Please give me some water.",
+        "tw_ex": "請給我一些水。"
+    },
+    {
+        "word": "ten",
+        "accent": "/ten/",
+        "tw": "十",
+        "example": "I'll be there in ten minutes.",
+        "tw_ex": "我十分鐘後到那裡。"
+    },
+    {
+        "word": "women",
+        "accent": "/ˈwɪmɪn/",
+        "tw": "女人（複數）",
+        "example": "The women are talking.",
+        "tw_ex": "那些女人正在說話。"
+    },
+    {
+        "word": "welcome",
+        "accent": "/ˈwelkəm/",
+        "tw": "歡迎",
+        "example": "Welcome to our home.",
+        "tw_ex": "歡迎來到我們家。"
+    },
+    {
+        "word": "buy",
+        "accent": "/baɪ/",
+        "tw": "買",
+        "example": "I want to buy a new book.",
+        "tw_ex": "我想買一本新書。"
+    },
+    {
+        "word": "hour",
+        "accent": "/ˈaʊə(r)/",
+        "tw": "小時",
+        "example": "The meeting will last for an hour.",
+        "tw_ex": "會議將持續一小時。"
+    },
+    {
+        "word": "speak",
+        "accent": "/spiːk/",
+        "tw": "說；講話",
+        "example": "Do you speak English?",
+        "tw_ex": "你會說英語嗎？"
+    },
+    {
+        "word": "think",
+        "accent": "/θɪŋk/",
+        "tw": "想",
+        "example": "What do you think?",
+        "tw_ex": "你覺得怎麼樣？"
+    },
+    {
+        "word": "Christmas",
+        "accent": "/ˈkrɪsməs/",
+        "tw": "聖誕節",
+        "example": "Merry Christmas!",
+        "tw_ex": "聖誕快樂！"
+    },
+    {
+        "word": "body",
+        "accent": "/ˈbɒdi/",
+        "tw": "身體",
+        "example": "He has a strong body.",
+        "tw_ex": "他有一個強壯的身體。"
+    },
+    {
+        "word": "order",
+        "accent": "/ˈɔːdə(r)/",
+        "tw": "訂購；命令",
+        "example": "I'd like to order a pizza.",
+        "tw_ex": "我想訂一份披薩。"
+    },
+    {
+        "word": "outside",
+        "accent": "/ˌaʊtˈsaɪd/",
+        "tw": "外面",
+        "example": "He waited for her outside the door.",
+        "tw_ex": "他在門外等她。"
+    },
+    {
+        "word": "hang",
+        "accent": "/hæŋ/",
+        "tw": "懸掛",
+        "example": "Hang your coat on the hook.",
+        "tw_ex": "把你的外套掛在鉤子上。"
+    },
+    {
+        "word": "worse",
+        "accent": "/wɜːs/",
+        "tw": "更糟的",
+        "example": "The weather is getting worse.",
+        "tw_ex": "天氣越來越糟了。"
+    },
+    {
+        "word": "company",
+        "accent": "/ˈkʌmpəni/",
+        "tw": "公司",
+        "example": "I work for a software company.",
+        "tw_ex": "我為一家軟體公司工作。"
+    },
+    {
+        "word": "mistake",
+        "accent": "/mɪˈsteɪk/",
+        "tw": "錯誤",
+        "example": "I made a mistake in the calculation.",
+        "tw_ex": "我在計算中犯了一個錯誤。"
+    },
+    {
+        "word": "handle",
+        "accent": "/ˈhændl/",
+        "tw": "處理",
+        "example": "Can you handle this problem?",
+        "tw_ex": "你能處理這個問題嗎？"
+    },
+    {
+        "word": "spend",
+        "accent": "/spend/",
+        "tw": "花費",
+        "example": "I spend too much money on clothes.",
+        "tw_ex": "我在衣服上花了太多錢。"
+    },
+    {
+        "word": "totally",
+        "accent": "/ˈtəʊtəli/",
+        "tw": "完全地",
+        "example": "I totally agree with you.",
+        "tw_ex": "我完全同意你的看法。"
+    },
+    {
+        "word": "control",
+        "accent": "/kənˈtrəʊl/",
+        "tw": "控制",
+        "example": "He has no control over his emotions.",
+        "tw_ex": "他無法控制自己的情緒。"
+    },
+    {
+        "word": "marriage",
+        "accent": "/ˈmærɪdʒ/",
+        "tw": "婚姻",
+        "example": "Their marriage lasted for ten years.",
+        "tw_ex": "他們的婚姻持續了十年。"
+    },
+    {
+        "word": "power",
+        "accent": "/ˈpaʊə(r)/",
+        "tw": "力量；權力",
+        "example": "He has the power to change things.",
+        "tw_ex": "他有能力改變事物。"
+    },
+    {
+        "word": "president",
+        "accent": "/ˈprezɪdənt/",
+        "tw": "總統",
+        "example": "He was elected as the new president.",
+        "tw_ex": "他被選為新任總統。"
+    },
+    {
+        "word": "unless",
+        "accent": "/ənˈles/",
+        "tw": "除非",
+        "example": "I won't go unless you come with me.",
+        "tw_ex": "除非你跟我一起去，否則我不會去。"
+    },
+    {
+        "word": "sex",
+        "accent": "/seks/",
+        "tw": "性別；性",
+        "example": "The form asks for your name and sex.",
+        "tw_ex": "表格要求填寫你的姓名和性別。"
+    },
+    {
+        "word": "send",
+        "accent": "/send/",
+        "tw": "寄送",
+        "example": "I'll send you an email.",
+        "tw_ex": "我會發一封電子郵件給你。"
+    },
+    {
+        "word": "picture",
+        "accent": "/ˈpɪktʃə(r)/",
+        "tw": "圖片；照片",
+        "example": "Look at this picture of my dog.",
+        "tw_ex": "看這張我的狗的照片。"
+    },
+    {
+        "word": "hundred",
+        "accent": "/ˈhʌndrəd/",
+        "tw": "一百",
+        "example": "He has a hundred books.",
+        "tw_ex": "他有一百本書。"
+    },
+    {
+        "word": "change",
+        "accent": "/tʃeɪndʒ/",
+        "tw": "改變",
+        "example": "I want to change my hair color.",
+        "tw_ex": "我想改變我的髮色。"
+    },
+    {
+        "word": "explain",
+        "accent": "/ɪkˈspleɪn/",
+        "tw": "解釋",
+        "example": "Can you explain this to me?",
+        "tw_ex": "你能向我解釋這個嗎？"
+    },
+    {
+        "word": "certainly",
+        "accent": "/ˈsɜːtnli/",
+        "tw": "當然",
+        "example": "I will certainly help you.",
+        "tw_ex": "我當然會幫助你。"
+    },
+    {
+        "word": "sign",
+        "accent": "/saɪn/",
+        "tw": "簽名；標誌",
+        "example": "Please sign here.",
+        "tw_ex": "請在這裡簽名。"
+    },
+    {
+        "word": "boy",
+        "accent": "/bɔɪ/",
+        "tw": "男孩",
+        "example": "That little boy is my son.",
+        "tw_ex": "那個小男孩是我的兒子。"
+    },
+    {
+        "word": "relationship",
+        "accent": "/rɪˈleɪʃnʃɪp/",
+        "tw": "關係",
+        "example": "Their relationship is very good.",
+        "tw_ex": "他們的關係非常好。"
+    },
+    {
+        "word": "hair",
+        "accent": "/heə(r)/",
+        "tw": "頭髮",
+        "example": "She has long black hair.",
+        "tw_ex": "她有一頭長長的黑髮。"
+    },
+    {
+        "word": "choice",
+        "accent": "/tʃɔɪs/",
+        "tw": "選擇",
+        "example": "It's your choice.",
+        "tw_ex": "這是你的選擇。"
+    },
+    {
+        "word": "anywhere",
+        "accent": "/ˈeniweə(r)/",
+        "tw": "任何地方",
+        "example": "I can't find my keys anywhere.",
+        "tw_ex": "我在任何地方都找不到我的鑰匙。"
+    },
+    {
+        "word": "secret",
+        "accent": "/ˈsiːkrət/",
+        "tw": "祕密",
+        "example": "Can you keep a secret?",
+        "tw_ex": "你能保守祕密嗎？"
+    },
+    {
+        "word": "future",
+        "accent": "/ˈfjuːtʃə(r)/",
+        "tw": "未來",
+        "example": "I'm worried about the future.",
+        "tw_ex": "我很擔心未來。"
+    },
+    {
+        "word": "weird",
+        "accent": "/wɪəd/",
+        "tw": "奇怪的",
+        "example": "That's a weird story.",
+        "tw_ex": "那是一個奇怪的故事。"
+    },
+    {
+        "word": "luck",
+        "accent": "/lʌk/",
+        "tw": "運氣",
+        "example": "Good luck on your exam!",
+        "tw_ex": "祝你考試好運！"
+    },
+    {
+        "word": "touch",
+        "accent": "/tʌtʃ/",
+        "tw": "觸摸",
+        "example": "Don't touch the stove, it's hot.",
+        "tw_ex": "別碰爐子，它很燙。"
+    },
+    {
+        "word": "kiss",
+        "accent": "/kɪs/",
+        "tw": "親吻",
+        "example": "He gave his daughter a kiss on the forehead.",
+        "tw_ex": "他親吻了女兒的額頭。"
+    },
+    {
+        "word": "crane",
+        "accent": "/kreɪn/",
+        "tw": "鶴；起重機",
+        "example": "A crane is a long-legged bird.",
+        "tw_ex": "鶴是一種長腿的鳥。"
+    },
+    {
+        "word": "question",
+        "accent": "/ˈkwestʃən/",
+        "tw": "問題",
+        "example": "Can I ask you a question?",
+        "tw_ex": "我可以問你一個問題嗎？"
+    },
+    {
+        "word": "obviously",
+        "accent": "/ˈɒbviəsli/",
+        "tw": "顯然地",
+        "example": "Obviously, you are wrong.",
+        "tw_ex": "很顯然，你錯了。"
+    },
+    {
+        "word": "pain",
+        "accent": "/peɪn/",
+        "tw": "疼痛",
+        "example": "I feel a sharp pain in my back.",
+        "tw_ex": "我背部感到一陣劇痛。"
+    },
+    {
+        "word": "straight",
+        "accent": "/streɪt/",
+        "tw": "直的",
+        "example": "Go straight ahead.",
+        "tw_ex": "直走。"
+    },
+    {
+        "word": "grace",
+        "accent": "/ɡreɪs/",
+        "tw": "優雅；恩典",
+        "example": "She moved with great grace.",
+        "tw_ex": "她移動時非常優雅。"
+    },
+    {
+        "word": "white",
+        "accent": "/waɪt/",
+        "tw": "白色的",
+        "example": "The snow is white.",
+        "tw_ex": "雪是白色的。"
+    },
+    {
+        "word": "fast",
+        "accent": "/fɑːst/",
+        "tw": "快的",
+        "example": "He can run very fast.",
+        "tw_ex": "他跑得非常快。"
+    },
+    {
+        "word": "pacemaker",
+        "accent": "/ˈpeɪsmeɪkə(r)/",
+        "tw": "心律調節器",
+        "example": "He has to have a pacemaker fitted.",
+        "tw_ex": "他必須植入一個心律調節器。"
+    },
+    {
+        "word": "food",
+        "accent": "/fuːd/",
+        "tw": "食物",
+        "example": "I need to buy some food.",
+        "tw_ex": "我需要買一些食物。"
+    },
+    {
+        "word": "none",
+        "accent": "/nʌn/",
+        "tw": "沒有一個",
+        "example": "None of them came to the party.",
+        "tw_ex": "他們沒有一個人來參加派對。"
+    },
+    {
+        "word": "drive",
+        "accent": "/draɪv/",
+        "tw": "開車",
+        "example": "I'll drive you home.",
+        "tw_ex": "我開車送你回家。"
+    },
+    {
+        "word": "work",
+        "accent": "/wɜːk/",
+        "tw": "工作",
+        "example": "I have a lot of work to do.",
+        "tw_ex": "我有很多工作要做。"
+    },
+    {
+        "word": "marry",
+        "accent": "/ˈmæri/",
+        "tw": "結婚",
+        "example": "He wants to marry her.",
+        "tw_ex": "他想娶她。"
+    },
+    {
+        "word": "light",
+        "accent": "/laɪt/",
+        "tw": "光；燈",
+        "example": "Please turn on the light.",
+        "tw_ex": "請開燈。"
+    },
+    {
+        "word": "test",
+        "accent": "/test/",
+        "tw": "測試",
+        "example": "I have a test tomorrow.",
+        "tw_ex": "我明天有一個考試。"
+    },
+    {
+        "word": "drop",
+        "accent": "/drɒp/",
+        "tw": "掉落",
+        "example": "Be careful not to drop it.",
+        "tw_ex": "小心不要把它掉下去。"
+    },
+    {
+        "word": "frank",
+        "accent": "/fræŋk/",
+        "tw": "坦白的",
+        "example": "To be frank, I don't like your idea.",
+        "tw_ex": "坦白說，我不喜歡你的主意。"
+    },
+    {
+        "word": "sent",
+        "accent": "/sent/",
+        "tw": "寄送（send的過去式）",
+        "example": "She sent me a letter.",
+        "tw_ex": "她寄了一封信給我。"
+    },
+    {
+        "word": "city",
+        "accent": "/ˈsɪti/",
+        "tw": "城市",
+        "example": "Taipei is a big city.",
+        "tw_ex": "台北是一個大城市。"
+    },
+    {
+        "word": "dream",
+        "accent": "/driːm/",
+        "tw": "夢想；夢",
+        "example": "I had a strange dream last night.",
+        "tw_ex": "我昨晚做了一個奇怪的夢。"
+    },
+    {
+        "word": "protect",
+        "accent": "/prəˈtekt/",
+        "tw": "保護",
+        "example": "It's important to protect the environment.",
+        "tw_ex": "保護環境是很重要的。"
+    },
+    {
+        "word": "twenty",
+        "accent": "/ˈtwenti/",
+        "tw": "二十",
+        "example": "He is twenty years old.",
+        "tw_ex": "他二十歲了。"
+    },
+    {
+        "word": "class",
+        "accent": "/klɑːs/",
+        "tw": "班級；課",
+        "example": "The class will begin at 9 a.m.",
+        "tw_ex": "課程將在早上九點開始。"
+    },
+    {
+        "word": "surprise",
+        "accent": "/səˈpraɪz/",
+        "tw": "驚喜",
+        "example": "The party was a complete surprise.",
+        "tw_ex": "這個派對完全是個驚喜。"
+    },
+    {
+        "word": "forever",
+        "accent": "/fərˈevə(r)/",
+        "tw": "永遠",
+        "example": "I'll love you forever.",
+        "tw_ex": "我會永遠愛你。"
+    },
+    {
+        "word": "poor",
+        "accent": "/pɔː(r)/",
+        "tw": "貧窮的；可憐的",
+        "example": "The poor man had no home.",
+        "tw_ex": "這個可憐的男人無家可歸。"
+    },
+    {
+        "word": "mad",
+        "accent": "/mæd/",
+        "tw": "瘋狂的；生氣的",
+        "example": "Are you mad at me?",
+        "tw_ex": "你生我的氣嗎？"
+    },
+    {
+        "word": "except",
+        "accent": "/ɪkˈsept/",
+        "tw": "除了",
+        "example": "Everyone was there except me.",
+        "tw_ex": "除了我，大家都在那裡。"
+    },
+    {
+        "word": "gun",
+        "accent": "/ɡʌn/",
+        "tw": "槍",
+        "example": "He held a gun in his hand.",
+        "tw_ex": "他手裡拿著一把槍。"
+    },
+    {
+        "word": "know",
+        "accent": "/nəʊ/",
+        "tw": "知道",
+        "example": "I know the answer.",
+        "tw_ex": "我知道答案。"
+    },
+    {
+        "word": "dance",
+        "accent": "/dɑːns/",
+        "tw": "跳舞",
+        "example": "Let's go dance.",
+        "tw_ex": "我們去跳舞吧。"
+    },
+    {
+        "word": "take",
+        "accent": "/teɪk/",
+        "tw": "拿；帶走",
+        "example": "Please take a seat.",
+        "tw_ex": "請坐下。"
+    },
+    {
+        "word": "especially",
+        "accent": "/ɪˈspeʃəli/",
+        "tw": "尤其；特別地",
+        "example": "I love all fruits, especially strawberries.",
+        "tw_ex": "我喜歡所有水果，尤其是草莓。"
+    },
+    {
+        "word": "situation",
+        "accent": "/ˌsɪtʃuˈeɪʃn/",
+        "tw": "情況",
+        "example": "It's a difficult situation.",
+        "tw_ex": "這是一個困難的狀況。"
+    },
+    {
+        "word": "besides",
+        "accent": "/bɪˈsaɪdz/",
+        "tw": "此外；而且",
+        "example": "Besides, I'm tired.",
+        "tw_ex": "此外，我很累。"
+    },
+    {
+        "word": "week",
+        "accent": "/wiːk/",
+        "tw": "週",
+        "example": "I'll see you next week.",
+        "tw_ex": "下週見。"
+    },
+    {
+        "word": "himself",
+        "accent": "/hɪmˈself/",
+        "tw": "他自己",
+        "example": "He did it himself.",
+        "tw_ex": "他自己做的。"
+    },
+    {
+        "word": "act",
+        "accent": "/ækt/",
+        "tw": "行動；扮演",
+        "example": "He acted quickly to save the child.",
+        "tw_ex": "他迅速行動救了那個孩子。"
+    },
+    {
+        "word": "worth",
+        "accent": "/wɜːθ/",
+        "tw": "值得的",
+        "example": "It's worth the effort.",
+        "tw_ex": "這值得付出努力。"
+    },
+    {
+        "word": "top",
+        "accent": "/tɒp/",
+        "tw": "頂部",
+        "example": "The book is on the top shelf.",
+        "tw_ex": "那本書在最上面的架子上。"
+    },
+    {
+        "word": "expect",
+        "accent": "/ɪkˈspekt/",
+        "tw": "期待；預期",
+        "example": "I expect you to be on time.",
+        "tw_ex": "我希望你能準時。"
+    },
+    {
+        "word": "rather",
+        "accent": "/ˈrɑːðə(r)/",
+        "tw": "相當；寧願",
+        "example": "I'd rather stay home.",
+        "tw_ex": "我寧願待在家。"
+    },
+    {
+        "word": "involve",
+        "accent": "/ɪnˈvɒlv/",
+        "tw": "涉及；包含",
+        "example": "The job involves a lot of travel.",
+        "tw_ex": "這份工作需要經常出差。"
+    },
+    {
+        "word": "swear",
+        "accent": "/sweə(r)/",
+        "tw": "發誓",
+        "example": "I swear I'll never do it again.",
+        "tw_ex": "我發誓再也不會那樣做了。"
+    },
+    {
+        "word": "piece",
+        "accent": "/piːs/",
+        "tw": "一片；一塊",
+        "example": "I want a piece of cake.",
+        "tw_ex": "我想要一塊蛋糕。"
+    },
+    {
+        "word": "busy",
+        "accent": "/ˈbɪzi/",
+        "tw": "忙碌的",
+        "example": "I'm too busy to talk.",
+        "tw_ex": "我太忙了，沒時間講話。"
+    },
+    {
+        "word": "law",
+        "accent": "/lɔː/",
+        "tw": "法律",
+        "example": "It's against the law.",
+        "tw_ex": "這違反了法律。"
+    },
+    {
+        "word": "black",
+        "accent": "/blæk/",
+        "tw": "黑色的",
+        "example": "She was wearing a black dress.",
+        "tw_ex": "她穿著一件黑色的洋裝。"
+    },
+    {
+        "word": "movie",
+        "accent": "/ˈmuːvi/",
+        "tw": "電影",
+        "example": "Let's go watch a movie.",
+        "tw_ex": "我們去看電影吧。"
+    },
+    {
+        "word": "catch",
+        "accent": "/kætʃ/",
+        "tw": "捕捉",
+        "example": "I'll try to catch the ball.",
+        "tw_ex": "我會試著接住球。"
+    },
+    {
+        "word": "country",
+        "accent": "/ˈkʌntri/",
+        "tw": "國家",
+        "example": "He lives in a foreign country.",
+        "tw_ex": "他住在一個外國。"
+    },
+    {
+        "word": "less",
+        "accent": "/les/",
+        "tw": "更少",
+        "example": "I have less money than you.",
+        "tw_ex": "我的錢比你少。"
+    },
+    {
+        "word": "perhaps",
+        "accent": "/pəˈhæps/",
+        "tw": "或許",
+        "example": "Perhaps he is right.",
+        "tw_ex": "或許他是對的。"
+    },
+    {
+        "word": "step",
+        "accent": "/step/",
+        "tw": "一步",
+        "example": "Take one step at a time.",
+        "tw_ex": "一次邁出一步。"
+    },
+    {
+        "word": "fall",
+        "accent": "/fɔːl/",
+        "tw": "掉落；秋天",
+        "example": "Be careful, don't fall.",
+        "tw_ex": "小心，不要跌倒。"
+    },
+    {
+        "word": "dog",
+        "accent": "/dɒɡ/",
+        "tw": "狗",
+        "example": "My dog is very friendly.",
+        "tw_ex": "我的狗很友善。"
+    },
+    {
+        "word": "win",
+        "accent": "/wɪn/",
+        "tw": "贏",
+        "example": "Our team will win the game.",
+        "tw_ex": "我們的隊伍會贏得比賽。"
+    },
+    {
+        "word": "personal",
+        "accent": "/ˈpɜːsənl/",
+        "tw": "個人的",
+        "example": "This is my personal opinion.",
+        "tw_ex": "這是我的個人意見。"
+    },
+    {
+        "word": "admit",
+        "accent": "/ədˈmɪt/",
+        "tw": "承認",
+        "example": "You should admit your mistake.",
+        "tw_ex": "你應該承認自己的錯誤。"
+    },
+    {
+        "word": "problem",
+        "accent": "/ˈprɒbləm/",
+        "tw": "問題",
+        "example": "I have a problem with my car.",
+        "tw_ex": "我的車子出了點問題。"
+    },
+    {
+        "word": "murder",
+        "accent": "/ˈmɜːdə(r)/",
+        "tw": "謀殺",
+        "example": "The police are investigating the murder.",
+        "tw_ex": "警方正在調查這起謀殺案。"
+    },
+    {
+        "word": "strong",
+        "accent": "/strɒŋ/",
+        "tw": "強壯的",
+        "example": "He is a very strong person.",
+        "tw_ex": "他是一個很強壯的人。"
+    },
+    {
+        "word": "evil",
+        "accent": "/ˈiːvl/",
+        "tw": "邪惡的",
+        "example": "The witch was an evil person.",
+        "tw_ex": "那個巫婆是個邪惡的人。"
+    },
+    {
+        "word": "feel",
+        "accent": "/fiːl/",
+        "tw": "感覺",
+        "example": "I feel much better now.",
+        "tw_ex": "我現在感覺好多了。"
     }
 ]
